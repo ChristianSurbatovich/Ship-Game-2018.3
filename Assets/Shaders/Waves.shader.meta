@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cd41bfef9dd35f0499a39a631505facd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WakeTexture: {fileID: 8400000, guid: c7bda04f563c9fb4fb1f869508a25639, type: 2}
+  - _Depth: {fileID: 8400000, guid: 4122a1f72799903469c22fbd37287560, type: 2}
+  - _CrestFoam: {fileID: 2800000, guid: 8304dd4a36d805543a8b0a8e0674efc7, type: 3}
+  - _LowFoam: {fileID: 2800000, guid: 8304dd4a36d805543a8b0a8e0674efc7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

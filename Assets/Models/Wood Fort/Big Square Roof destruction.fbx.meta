@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 512455dc6bcd00949ae94ec8452c4a00
+timeCreated: 1521709535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube.341
+    100004: Cube.343
+    100006: Cube.344
+    100008: Cube.345
+    100010: Wood Roof Tile.075
+    100012: Wood Roof Tile.077
+    100014: Wood Roof Tile.078
+    100016: Wood Roof Tile.079
+    100018: Wood Roof Tile.080
+    100020: Wood Roof Tile.081
+    100022: Wood Roof Tile.082
+    100024: Wood Roof Tile.083
+    100026: Wood Roof Tile.084
+    100028: Wood Roof Tile.085
+    100030: Wood Roof Tile.086
+    100032: Wood Roof Tile.087
+    100034: Wood Roof Tile.088
+    100036: Wood Roof Tile.089
+    100038: Wood Roof Tile.090
+    100040: Wood Roof Tile.091
+    100042: Wood Roof Tile.092
+    100044: Wood Roof Tile.093
+    100046: Wood Roof Tile.094
+    100048: Wood Roof Tile.095
+    100050: Wood Roof Tile.096
+    100052: Wood Roof Tile.097
+    100054: Wood Roof Tile.098
+    100056: Wood Roof Tile.099
+    100058: Wood Roof Tile.100
+    100060: Wood Roof Tile.101
+    100062: Wood Roof Tile.102
+    100064: Wood Roof Tile.103
+    100066: Wood Roof Tile.104
+    100068: Wood Roof Tile.105
+    100070: Wood Roof Tile.106
+    100072: Wood Roof Tile.107
+    100074: Wood Roof Tile.108
+    100076: Wood Roof Tile.109
+    100078: Wood Roof Tile.110
+    100080: Wood Roof Tile.111
+    100082: Wood Roof Tile.112
+    100084: Wood Roof Tile.113
+    100086: Wood Roof Tile.114
+    100088: Wood Roof Tile.115
+    100090: Wood Roof Tile.116
+    100092: Wood Roof Tile.117
+    100094: Wood Roof Tile.118
+    100096: Wood Roof Tile.119
+    100098: Wood Roof Tile.120
+    100100: Wood Roof Tile.121
+    100102: Wood Roof Tile.122
+    100104: Wood Roof Tile.123
+    100106: Wood Roof Tile.124
+    100108: Wood Roof Tile.125
+    100110: Wood Roof Tile.126
+    100112: Wood Roof Tile.127
+    100114: Wood Roof Tile.128
+    100116: Wood Roof Tile.129
+    100118: Wood Roof Tile.130
+    100120: Wood Roof Tile.131
+    100122: Wood Roof Tile.132
+    100124: Wood Roof Tile.133
+    100126: Wood Roof Tile.134
+    100128: Wood Roof Tile.135
+    100130: Wood Roof Tile.136
+    100132: Wood Roof Tile.137
+    100134: Wood Roof Tile.138
+    100136: Wood Roof Tile.139
+    100138: Wood Roof Tile.140
+    100140: Wood Roof Tile.141
+    100142: Wood Roof Tile.142
+    100144: Wood Roof Tile.143
+    100146: Wood Roof Tile.144
+    100148: Wood Roof Tile.145
+    100150: Wood Roof Tile.146
+    100152: Wood Roof Tile.147
+    100154: Wood Roof Tile.148
+    100156: Wood Roof Tile.149
+    100158: Wood Roof Tile.150
+    100160: Wood Roof Tile.151
+    100162: Wood Roof Tile.152
+    100164: Wood Roof Tile.153
+    100166: Wood Roof Tile.154
+    100168: Wood Roof Tile.155
+    100170: Wood Roof Tile.156
+    100172: Wood Roof Tile.157
+    100174: Wood Roof Tile.158
+    100176: Wood Roof Tile.159
+    100178: Wood Roof Tile.160
+    100180: Wood Roof Tile.161
+    100182: Wood Roof Tile.162
+    100184: Wood Roof Tile.163
+    100186: Wood Roof Tile.164
+    100188: Wood Roof Tile.165
+    100190: Wood Roof Tile.166
+    100192: Wood Roof Tile.167
+    100194: Wood Roof Tile.168
+    100196: Wood Roof Tile.169
+    100198: Wood Roof Tile.170
+    100200: Wood Roof Tile.171
+    100202: Wood Roof Tile.172
+    100204: Wood Roof Tile.173
+    100206: Wood Roof Tile.174
+    100208: Wood Roof Tile.175
+    100210: Wood Roof Tile.176
+    100212: Wood Roof Tile.177
+    100214: Wood Roof Tile.178
+    100216: Wood Roof Tile.179
+    100218: Wood Roof Tile.180
+    100220: Wood Roof Tile.181
+    100222: Wood Roof Tile.182
+    100224: Wood Roof Tile.183
+    100226: Wood Roof Tile.184
+    100228: Wood Roof Tile.185
+    100230: Wood Roof Tile.186
+    100232: Wood Roof Tile.187
+    100234: Wood Roof Tile.188
+    100236: Wood Roof Tile.189
+    100238: Wood Roof Tile.190
+    100240: Wood Roof Tile.191
+    100242: Wood Roof Tile.192
+    100244: Wood Roof Tile.193
+    100246: Wood Roof Tile.194
+    100248: Wood Roof Tile.195
+    100250: Wood Roof Tile.196
+    100252: Wood Roof Tile.197
+    100254: Wood Roof Tile.198
+    100256: Wood Roof Tile.199
+    100258: Wood Roof Tile.200
+    100260: Wood Roof Tile.201
+    100262: Wood Roof Tile.202
+    100264: Wood Roof Tile.203
+    100266: Wood Roof Tile.204
+    100268: Wood Roof Tile.205
+    100270: Wood Roof Tile.206
+    100272: Wood Roof Tile.207
+    100274: Wood Roof Tile.208
+    100276: Wood Roof Tile.209
+    100278: Wood Roof Tile.210
+    100280: Wood Roof Tile.211
+    100282: Wood Roof Tile.212
+    100284: Wood Roof Tile.213
+    100286: Wood Roof Tile.214
+    100288: Wood Roof Tile.215
+    100290: Wood Roof Tile.216
+    100292: Wood Roof Tile.217
+    100294: Wood Roof Tile.218
+    100296: Wood Roof Tile.219
+    100298: Wood Roof Tile.220
+    100300: Wood Roof Tile.221
+    400000: //RootNode
+    400002: Cube.341
+    400004: Cube.343
+    400006: Cube.344
+    400008: Cube.345
+    400010: Wood Roof Tile.075
+    400012: Wood Roof Tile.077
+    400014: Wood Roof Tile.078
+    400016: Wood Roof Tile.079
+    400018: Wood Roof Tile.080
+    400020: Wood Roof Tile.081
+    400022: Wood Roof Tile.082
+    400024: Wood Roof Tile.083
+    400026: Wood Roof Tile.084
+    400028: Wood Roof Tile.085
+    400030: Wood Roof Tile.086
+    400032: Wood Roof Tile.087
+    400034: Wood Roof Tile.088
+    400036: Wood Roof Tile.089
+    400038: Wood Roof Tile.090
+    400040: Wood Roof Tile.091
+    400042: Wood Roof Tile.092
+    400044: Wood Roof Tile.093
+    400046: Wood Roof Tile.094
+    400048: Wood Roof Tile.095
+    400050: Wood Roof Tile.096
+    400052: Wood Roof Tile.097
+    400054: Wood Roof Tile.098
+    400056: Wood Roof Tile.099
+    400058: Wood Roof Tile.100
+    400060: Wood Roof Tile.101
+    400062: Wood Roof Tile.102
+    400064: Wood Roof Tile.103
+    400066: Wood Roof Tile.104
+    400068: Wood Roof Tile.105
+    400070: Wood Roof Tile.106
+    400072: Wood Roof Tile.107
+    400074: Wood Roof Tile.108
+    400076: Wood Roof Tile.109
+    400078: Wood Roof Tile.110
+    400080: Wood Roof Tile.111
+    400082: Wood Roof Tile.112
+    400084: Wood Roof Tile.113
+    400086: Wood Roof Tile.114
+    400088: Wood Roof Tile.115
+    400090: Wood Roof Tile.116
+    400092: Wood Roof Tile.117
+    400094: Wood Roof Tile.118
+    400096: Wood Roof Tile.119
+    400098: Wood Roof Tile.120
+    400100: Wood Roof Tile.121
+    400102: Wood Roof Tile.122
+    400104: Wood Roof Tile.123
+    400106: Wood Roof Tile.124
+    400108: Wood Roof Tile.125
+    400110: Wood Roof Tile.126
+    400112: Wood Roof Tile.127
+    400114: Wood Roof Tile.128
+    400116: Wood Roof Tile.129
+    400118: Wood Roof Tile.130
+    400120: Wood Roof Tile.131
+    400122: Wood Roof Tile.132
+    400124: Wood Roof Tile.133
+    400126: Wood Roof Tile.134
+    400128: Wood Roof Tile.135
+    400130: Wood Roof Tile.136
+    400132: Wood Roof Tile.137
+    400134: Wood Roof Tile.138
+    400136: Wood Roof Tile.139
+    400138: Wood Roof Tile.140
+    400140: Wood Roof Tile.141
+    400142: Wood Roof Tile.142
+    400144: Wood Roof Tile.143
+    400146: Wood Roof Tile.144
+    400148: Wood Roof Tile.145
+    400150: Wood Roof Tile.146
+    400152: Wood Roof Tile.147
+    400154: Wood Roof Tile.148
+    400156: Wood Roof Tile.149
+    400158: Wood Roof Tile.150
+    400160: Wood Roof Tile.151
+    400162: Wood Roof Tile.152
+    400164: Wood Roof Tile.153
+    400166: Wood Roof Tile.154
+    400168: Wood Roof Tile.155
+    400170: Wood Roof Tile.156
+    400172: Wood Roof Tile.157
+    400174: Wood Roof Tile.158
+    400176: Wood Roof Tile.159
+    400178: Wood Roof Tile.160
+    400180: Wood Roof Tile.161
+    400182: Wood Roof Tile.162
+    400184: Wood Roof Tile.163
+    400186: Wood Roof Tile.164
+    400188: Wood Roof Tile.165
+    400190: Wood Roof Tile.166
+    400192: Wood Roof Tile.167
+    400194: Wood Roof Tile.168
+    400196: Wood Roof Tile.169
+    400198: Wood Roof Tile.170
+    400200: Wood Roof Tile.171
+    400202: Wood Roof Tile.172
+    400204: Wood Roof Tile.173
+    400206: Wood Roof Tile.174
+    400208: Wood Roof Tile.175
+    400210: Wood Roof Tile.176
+    400212: Wood Roof Tile.177
+    400214: Wood Roof Tile.178
+    400216: Wood Roof Tile.179
+    400218: Wood Roof Tile.180
+    400220: Wood Roof Tile.181
+    400222: Wood Roof Tile.182
+    400224: Wood Roof Tile.183
+    400226: Wood Roof Tile.184
+    400228: Wood Roof Tile.185
+    400230: Wood Roof Tile.186
+    400232: Wood Roof Tile.187
+    400234: Wood Roof Tile.188
+    400236: Wood Roof Tile.189
+    400238: Wood Roof Tile.190
+    400240: Wood Roof Tile.191
+    400242: Wood Roof Tile.192
+    400244: Wood Roof Tile.193
+    400246: Wood Roof Tile.194
+    400248: Wood Roof Tile.195
+    400250: Wood Roof Tile.196
+    400252: Wood Roof Tile.197
+    400254: Wood Roof Tile.198
+    400256: Wood Roof Tile.199
+    400258: Wood Roof Tile.200
+    400260: Wood Roof Tile.201
+    400262: Wood Roof Tile.202
+    400264: Wood Roof Tile.203
+    400266: Wood Roof Tile.204
+    400268: Wood Roof Tile.205
+    400270: Wood Roof Tile.206
+    400272: Wood Roof Tile.207
+    400274: Wood Roof Tile.208
+    400276: Wood Roof Tile.209
+    400278: Wood Roof Tile.210
+    400280: Wood Roof Tile.211
+    400282: Wood Roof Tile.212
+    400284: Wood Roof Tile.213
+    400286: Wood Roof Tile.214
+    400288: Wood Roof Tile.215
+    400290: Wood Roof Tile.216
+    400292: Wood Roof Tile.217
+    400294: Wood Roof Tile.218
+    400296: Wood Roof Tile.219
+    400298: Wood Roof Tile.220
+    400300: Wood Roof Tile.221
+    2100000: Wood Shingle
+    2100002: Ship Hull
+    2300000: Cube.341
+    2300002: Cube.343
+    2300004: Cube.344
+    2300006: Cube.345
+    2300008: Wood Roof Tile.075
+    2300010: Wood Roof Tile.077
+    2300012: Wood Roof Tile.078
+    2300014: Wood Roof Tile.079
+    2300016: Wood Roof Tile.080
+    2300018: Wood Roof Tile.081
+    2300020: Wood Roof Tile.082
+    2300022: Wood Roof Tile.083
+    2300024: Wood Roof Tile.084
+    2300026: Wood Roof Tile.085
+    2300028: Wood Roof Tile.086
+    2300030: Wood Roof Tile.087
+    2300032: Wood Roof Tile.088
+    2300034: Wood Roof Tile.089
+    2300036: Wood Roof Tile.090
+    2300038: Wood Roof Tile.091
+    2300040: Wood Roof Tile.092
+    2300042: Wood Roof Tile.093
+    2300044: Wood Roof Tile.094
+    2300046: Wood Roof Tile.095
+    2300048: Wood Roof Tile.096
+    2300050: Wood Roof Tile.097
+    2300052: Wood Roof Tile.098
+    2300054: Wood Roof Tile.099
+    2300056: Wood Roof Tile.100
+    2300058: Wood Roof Tile.101
+    2300060: Wood Roof Tile.102
+    2300062: Wood Roof Tile.103
+    2300064: Wood Roof Tile.104
+    2300066: Wood Roof Tile.105
+    2300068: Wood Roof Tile.106
+    2300070: Wood Roof Tile.107
+    2300072: Wood Roof Tile.108
+    2300074: Wood Roof Tile.109
+    2300076: Wood Roof Tile.110
+    2300078: Wood Roof Tile.111
+    2300080: Wood Roof Tile.112
+    2300082: Wood Roof Tile.113
+    2300084: Wood Roof Tile.114
+    2300086: Wood Roof Tile.115
+    2300088: Wood Roof Tile.116
+    2300090: Wood Roof Tile.117
+    2300092: Wood Roof Tile.118
+    2300094: Wood Roof Tile.119
+    2300096: Wood Roof Tile.120
+    2300098: Wood Roof Tile.121
+    2300100: Wood Roof Tile.122
+    2300102: Wood Roof Tile.123
+    2300104: Wood Roof Tile.124
+    2300106: Wood Roof Tile.125
+    2300108: Wood Roof Tile.126
+    2300110: Wood Roof Tile.127
+    2300112: Wood Roof Tile.128
+    2300114: Wood Roof Tile.129
+    2300116: Wood Roof Tile.130
+    2300118: Wood Roof Tile.131
+    2300120: Wood Roof Tile.132
+    2300122: Wood Roof Tile.133
+    2300124: Wood Roof Tile.134
+    2300126: Wood Roof Tile.135
+    2300128: Wood Roof Tile.136
+    2300130: Wood Roof Tile.137
+    2300132: Wood Roof Tile.138
+    2300134: Wood Roof Tile.139
+    2300136: Wood Roof Tile.140
+    2300138: Wood Roof Tile.141
+    2300140: Wood Roof Tile.142
+    2300142: Wood Roof Tile.143
+    2300144: Wood Roof Tile.144
+    2300146: Wood Roof Tile.145
+    2300148: Wood Roof Tile.146
+    2300150: Wood Roof Tile.147
+    2300152: Wood Roof Tile.148
+    2300154: Wood Roof Tile.149
+    2300156: Wood Roof Tile.150
+    2300158: Wood Roof Tile.151
+    2300160: Wood Roof Tile.152
+    2300162: Wood Roof Tile.153
+    2300164: Wood Roof Tile.154
+    2300166: Wood Roof Tile.155
+    2300168: Wood Roof Tile.156
+    2300170: Wood Roof Tile.157
+    2300172: Wood Roof Tile.158
+    2300174: Wood Roof Tile.159
+    2300176: Wood Roof Tile.160
+    2300178: Wood Roof Tile.161
+    2300180: Wood Roof Tile.162
+    2300182: Wood Roof Tile.163
+    2300184: Wood Roof Tile.164
+    2300186: Wood Roof Tile.165
+    2300188: Wood Roof Tile.166
+    2300190: Wood Roof Tile.167
+    2300192: Wood Roof Tile.168
+    2300194: Wood Roof Tile.169
+    2300196: Wood Roof Tile.170
+    2300198: Wood Roof Tile.171
+    2300200: Wood Roof Tile.172
+    2300202: Wood Roof Tile.173
+    2300204: Wood Roof Tile.174
+    2300206: Wood Roof Tile.175
+    2300208: Wood Roof Tile.176
+    2300210: Wood Roof Tile.177
+    2300212: Wood Roof Tile.178
+    2300214: Wood Roof Tile.179
+    2300216: Wood Roof Tile.180
+    2300218: Wood Roof Tile.181
+    2300220: Wood Roof Tile.182
+    2300222: Wood Roof Tile.183
+    2300224: Wood Roof Tile.184
+    2300226: Wood Roof Tile.185
+    2300228: Wood Roof Tile.186
+    2300230: Wood Roof Tile.187
+    2300232: Wood Roof Tile.188
+    2300234: Wood Roof Tile.189
+    2300236: Wood Roof Tile.190
+    2300238: Wood Roof Tile.191
+    2300240: Wood Roof Tile.192
+    2300242: Wood Roof Tile.193
+    2300244: Wood Roof Tile.194
+    2300246: Wood Roof Tile.195
+    2300248: Wood Roof Tile.196
+    2300250: Wood Roof Tile.197
+    2300252: Wood Roof Tile.198
+    2300254: Wood Roof Tile.199
+    2300256: Wood Roof Tile.200
+    2300258: Wood Roof Tile.201
+    2300260: Wood Roof Tile.202
+    2300262: Wood Roof Tile.203
+    2300264: Wood Roof Tile.204
+    2300266: Wood Roof Tile.205
+    2300268: Wood Roof Tile.206
+    2300270: Wood Roof Tile.207
+    2300272: Wood Roof Tile.208
+    2300274: Wood Roof Tile.209
+    2300276: Wood Roof Tile.210
+    2300278: Wood Roof Tile.211
+    2300280: Wood Roof Tile.212
+    2300282: Wood Roof Tile.213
+    2300284: Wood Roof Tile.214
+    2300286: Wood Roof Tile.215
+    2300288: Wood Roof Tile.216
+    2300290: Wood Roof Tile.217
+    2300292: Wood Roof Tile.218
+    2300294: Wood Roof Tile.219
+    2300296: Wood Roof Tile.220
+    2300298: Wood Roof Tile.221
+    3300000: Cube.341
+    3300002: Cube.343
+    3300004: Cube.344
+    3300006: Cube.345
+    3300008: Wood Roof Tile.075
+    3300010: Wood Roof Tile.077
+    3300012: Wood Roof Tile.078
+    3300014: Wood Roof Tile.079
+    3300016: Wood Roof Tile.080
+    3300018: Wood Roof Tile.081
+    3300020: Wood Roof Tile.082
+    3300022: Wood Roof Tile.083
+    3300024: Wood Roof Tile.084
+    3300026: Wood Roof Tile.085
+    3300028: Wood Roof Tile.086
+    3300030: Wood Roof Tile.087
+    3300032: Wood Roof Tile.088
+    3300034: Wood Roof Tile.089
+    3300036: Wood Roof Tile.090
+    3300038: Wood Roof Tile.091
+    3300040: Wood Roof Tile.092
+    3300042: Wood Roof Tile.093
+    3300044: Wood Roof Tile.094
+    3300046: Wood Roof Tile.095
+    3300048: Wood Roof Tile.096
+    3300050: Wood Roof Tile.097
+    3300052: Wood Roof Tile.098
+    3300054: Wood Roof Tile.099
+    3300056: Wood Roof Tile.100
+    3300058: Wood Roof Tile.101
+    3300060: Wood Roof Tile.102
+    3300062: Wood Roof Tile.103
+    3300064: Wood Roof Tile.104
+    3300066: Wood Roof Tile.105
+    3300068: Wood Roof Tile.106
+    3300070: Wood Roof Tile.107
+    3300072: Wood Roof Tile.108
+    3300074: Wood Roof Tile.109
+    3300076: Wood Roof Tile.110
+    3300078: Wood Roof Tile.111
+    3300080: Wood Roof Tile.112
+    3300082: Wood Roof Tile.113
+    3300084: Wood Roof Tile.114
+    3300086: Wood Roof Tile.115
+    3300088: Wood Roof Tile.116
+    3300090: Wood Roof Tile.117
+    3300092: Wood Roof Tile.118
+    3300094: Wood Roof Tile.119
+    3300096: Wood Roof Tile.120
+    3300098: Wood Roof Tile.121
+    3300100: Wood Roof Tile.122
+    3300102: Wood Roof Tile.123
+    3300104: Wood Roof Tile.124
+    3300106: Wood Roof Tile.125
+    3300108: Wood Roof Tile.126
+    3300110: Wood Roof Tile.127
+    3300112: Wood Roof Tile.128
+    3300114: Wood Roof Tile.129
+    3300116: Wood Roof Tile.130
+    3300118: Wood Roof Tile.131
+    3300120: Wood Roof Tile.132
+    3300122: Wood Roof Tile.133
+    3300124: Wood Roof Tile.134
+    3300126: Wood Roof Tile.135
+    3300128: Wood Roof Tile.136
+    3300130: Wood Roof Tile.137
+    3300132: Wood Roof Tile.138
+    3300134: Wood Roof Tile.139
+    3300136: Wood Roof Tile.140
+    3300138: Wood Roof Tile.141
+    3300140: Wood Roof Tile.142
+    3300142: Wood Roof Tile.143
+    3300144: Wood Roof Tile.144
+    3300146: Wood Roof Tile.145
+    3300148: Wood Roof Tile.146
+    3300150: Wood Roof Tile.147
+    3300152: Wood Roof Tile.148
+    3300154: Wood Roof Tile.149
+    3300156: Wood Roof Tile.150
+    3300158: Wood Roof Tile.151
+    3300160: Wood Roof Tile.152
+    3300162: Wood Roof Tile.153
+    3300164: Wood Roof Tile.154
+    3300166: Wood Roof Tile.155
+    3300168: Wood Roof Tile.156
+    3300170: Wood Roof Tile.157
+    3300172: Wood Roof Tile.158
+    3300174: Wood Roof Tile.159
+    3300176: Wood Roof Tile.160
+    3300178: Wood Roof Tile.161
+    3300180: Wood Roof Tile.162
+    3300182: Wood Roof Tile.163
+    3300184: Wood Roof Tile.164
+    3300186: Wood Roof Tile.165
+    3300188: Wood Roof Tile.166
+    3300190: Wood Roof Tile.167
+    3300192: Wood Roof Tile.168
+    3300194: Wood Roof Tile.169
+    3300196: Wood Roof Tile.170
+    3300198: Wood Roof Tile.171
+    3300200: Wood Roof Tile.172
+    3300202: Wood Roof Tile.173
+    3300204: Wood Roof Tile.174
+    3300206: Wood Roof Tile.175
+    3300208: Wood Roof Tile.176
+    3300210: Wood Roof Tile.177
+    3300212: Wood Roof Tile.178
+    3300214: Wood Roof Tile.179
+    3300216: Wood Roof Tile.180
+    3300218: Wood Roof Tile.181
+    3300220: Wood Roof Tile.182
+    3300222: Wood Roof Tile.183
+    3300224: Wood Roof Tile.184
+    3300226: Wood Roof Tile.185
+    3300228: Wood Roof Tile.186
+    3300230: Wood Roof Tile.187
+    3300232: Wood Roof Tile.188
+    3300234: Wood Roof Tile.189
+    3300236: Wood Roof Tile.190
+    3300238: Wood Roof Tile.191
+    3300240: Wood Roof Tile.192
+    3300242: Wood Roof Tile.193
+    3300244: Wood Roof Tile.194
+    3300246: Wood Roof Tile.195
+    3300248: Wood Roof Tile.196
+    3300250: Wood Roof Tile.197
+    3300252: Wood Roof Tile.198
+    3300254: Wood Roof Tile.199
+    3300256: Wood Roof Tile.200
+    3300258: Wood Roof Tile.201
+    3300260: Wood Roof Tile.202
+    3300262: Wood Roof Tile.203
+    3300264: Wood Roof Tile.204
+    3300266: Wood Roof Tile.205
+    3300268: Wood Roof Tile.206
+    3300270: Wood Roof Tile.207
+    3300272: Wood Roof Tile.208
+    3300274: Wood Roof Tile.209
+    3300276: Wood Roof Tile.210
+    3300278: Wood Roof Tile.211
+    3300280: Wood Roof Tile.212
+    3300282: Wood Roof Tile.213
+    3300284: Wood Roof Tile.214
+    3300286: Wood Roof Tile.215
+    3300288: Wood Roof Tile.216
+    3300290: Wood Roof Tile.217
+    3300292: Wood Roof Tile.218
+    3300294: Wood Roof Tile.219
+    3300296: Wood Roof Tile.220
+    3300298: Wood Roof Tile.221
+    4300000: Wood Roof Tile.221
+    4300002: Wood Roof Tile.220
+    4300004: Wood Roof Tile.219
+    4300006: Wood Roof Tile.218
+    4300008: Wood Roof Tile.217
+    4300010: Wood Roof Tile.216
+    4300012: Wood Roof Tile.215
+    4300014: Wood Roof Tile.214
+    4300016: Wood Roof Tile.213
+    4300018: Wood Roof Tile.212
+    4300020: Wood Roof Tile.211
+    4300022: Wood Roof Tile.210
+    4300024: Wood Roof Tile.209
+    4300026: Wood Roof Tile.208
+    4300028: Wood Roof Tile.207
+    4300030: Wood Roof Tile.206
+    4300032: Wood Roof Tile.205
+    4300034: Wood Roof Tile.204
+    4300036: Wood Roof Tile.203
+    4300038: Wood Roof Tile.202
+    4300040: Wood Roof Tile.201
+    4300042: Wood Roof Tile.200
+    4300044: Wood Roof Tile.199
+    4300046: Wood Roof Tile.198
+    4300048: Wood Roof Tile.197
+    4300050: Wood Roof Tile.196
+    4300052: Wood Roof Tile.195
+    4300054: Wood Roof Tile.194
+    4300056: Wood Roof Tile.193
+    4300058: Wood Roof Tile.192
+    4300060: Wood Roof Tile.191
+    4300062: Wood Roof Tile.190
+    4300064: Wood Roof Tile.189
+    4300066: Wood Roof Tile.188
+    4300068: Wood Roof Tile.187
+    4300070: Wood Roof Tile.186
+    4300072: Wood Roof Tile.185
+    4300074: Wood Roof Tile.184
+    4300076: Wood Roof Tile.183
+    4300078: Wood Roof Tile.182
+    4300080: Wood Roof Tile.181
+    4300082: Wood Roof Tile.180
+    4300084: Wood Roof Tile.179
+    4300086: Wood Roof Tile.178
+    4300088: Wood Roof Tile.177
+    4300090: Wood Roof Tile.176
+    4300092: Wood Roof Tile.175
+    4300094: Wood Roof Tile.174
+    4300096: Wood Roof Tile.173
+    4300098: Wood Roof Tile.172
+    4300100: Wood Roof Tile.171
+    4300102: Wood Roof Tile.170
+    4300104: Wood Roof Tile.169
+    4300106: Wood Roof Tile.168
+    4300108: Wood Roof Tile.167
+    4300110: Wood Roof Tile.166
+    4300112: Wood Roof Tile.165
+    4300114: Wood Roof Tile.164
+    4300116: Wood Roof Tile.163
+    4300118: Wood Roof Tile.162
+    4300120: Wood Roof Tile.161
+    4300122: Wood Roof Tile.160
+    4300124: Wood Roof Tile.159
+    4300126: Wood Roof Tile.158
+    4300128: Wood Roof Tile.157
+    4300130: Wood Roof Tile.156
+    4300132: Wood Roof Tile.155
+    4300134: Wood Roof Tile.154
+    4300136: Wood Roof Tile.153
+    4300138: Wood Roof Tile.152
+    4300140: Wood Roof Tile.151
+    4300142: Wood Roof Tile.150
+    4300144: Wood Roof Tile.149
+    4300146: Wood Roof Tile.148
+    4300148: Wood Roof Tile.147
+    4300150: Wood Roof Tile.146
+    4300152: Wood Roof Tile.145
+    4300154: Wood Roof Tile.144
+    4300156: Wood Roof Tile.143
+    4300158: Wood Roof Tile.142
+    4300160: Wood Roof Tile.141
+    4300162: Wood Roof Tile.140
+    4300164: Wood Roof Tile.139
+    4300166: Wood Roof Tile.138
+    4300168: Wood Roof Tile.137
+    4300170: Wood Roof Tile.136
+    4300172: Wood Roof Tile.135
+    4300174: Wood Roof Tile.134
+    4300176: Wood Roof Tile.133
+    4300178: Wood Roof Tile.132
+    4300180: Wood Roof Tile.131
+    4300182: Wood Roof Tile.130
+    4300184: Wood Roof Tile.129
+    4300186: Wood Roof Tile.128
+    4300188: Wood Roof Tile.127
+    4300190: Wood Roof Tile.126
+    4300192: Wood Roof Tile.125
+    4300194: Wood Roof Tile.124
+    4300196: Wood Roof Tile.123
+    4300198: Wood Roof Tile.122
+    4300200: Wood Roof Tile.121
+    4300202: Wood Roof Tile.120
+    4300204: Wood Roof Tile.119
+    4300206: Wood Roof Tile.118
+    4300208: Wood Roof Tile.117
+    4300210: Wood Roof Tile.116
+    4300212: Wood Roof Tile.115
+    4300214: Wood Roof Tile.114
+    4300216: Wood Roof Tile.113
+    4300218: Wood Roof Tile.112
+    4300220: Wood Roof Tile.111
+    4300222: Wood Roof Tile.110
+    4300224: Wood Roof Tile.109
+    4300226: Wood Roof Tile.108
+    4300228: Wood Roof Tile.107
+    4300230: Wood Roof Tile.106
+    4300232: Wood Roof Tile.105
+    4300234: Wood Roof Tile.104
+    4300236: Wood Roof Tile.103
+    4300238: Wood Roof Tile.102
+    4300240: Wood Roof Tile.101
+    4300242: Wood Roof Tile.100
+    4300244: Wood Roof Tile.099
+    4300246: Wood Roof Tile.098
+    4300248: Wood Roof Tile.097
+    4300250: Wood Roof Tile.096
+    4300252: Wood Roof Tile.095
+    4300254: Wood Roof Tile.094
+    4300256: Wood Roof Tile.093
+    4300258: Wood Roof Tile.092
+    4300260: Wood Roof Tile.091
+    4300262: Wood Roof Tile.090
+    4300264: Wood Roof Tile.089
+    4300266: Wood Roof Tile.088
+    4300268: Wood Roof Tile.087
+    4300270: Wood Roof Tile.086
+    4300272: Wood Roof Tile.085
+    4300274: Wood Roof Tile.084
+    4300276: Wood Roof Tile.083
+    4300278: Wood Roof Tile.082
+    4300280: Wood Roof Tile.081
+    4300282: Wood Roof Tile.080
+    4300284: Wood Roof Tile.079
+    4300286: Wood Roof Tile.078
+    4300288: Wood Roof Tile.077
+    4300290: Cube.345
+    4300292: Cube.344
+    4300294: Cube.343
+    4300296: Wood Roof Tile.075
+    4300298: Cube.341
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Shingle
+    second: {fileID: 2100000, guid: 5532a84848e1e224eba2fcc2ce5f90fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.75
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

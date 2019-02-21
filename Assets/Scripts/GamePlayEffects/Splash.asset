@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f41c2119f1077644a2a1e369e9edad5, type: 3}
+  m_Name: Splash
+  m_EditorClassIdentifier: 
+  seaIndex: 0
+  minRate: 1
+  maxRate: 1.25
+  minSpeed: 10
+  maxSpeed: 12
+  startColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+  rateSpeedDampen: 10
+  forceSpeedDampen: 10
+  strengthSpeedDampen: 20
+  rateSpeedSplashMultiplier: 3
+  rateWaveSplashMultiplier: 100
+  rateDistanceSplashMultiplier: 2
+  forceSpeedMultiplier: 0.05
+  forceWaveMultiplier: 0.01
+  forceDistanceMultiplier: 0.02
+  strengthSpeedMultiplier: 0.1
+  strengthWaveMultiplier: 0.15
+  strengthDistanceMultiplier: 0.05

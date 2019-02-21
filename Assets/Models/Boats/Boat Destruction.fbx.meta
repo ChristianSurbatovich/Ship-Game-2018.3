@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 8a743f44604ba1640b243806375a5874
+timeCreated: 1521935440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ship_5_2_1_18.002
+    100004: Ship_5_2_1_19.002
+    100006: Ship_5_2_1_20.002
+    100008: Ship_5_2_1_21.002
+    100010: Ship_5_2_1_22.002
+    100012: Ship_5_2_1_23.002
+    100014: Ship_5_2_1_24.002
+    100016: Ship_5_2_1_25.002
+    100018: Ship_5_2_1_26.002
+    100020: Ship_5_2_1_7.002
+    100022: Ship_5_2_1_8.002
+    100024: Ship_5_2_2_17.002
+    100026: Ship_5_2_2_18.002
+    100028: Ship_5_2_2_19.002
+    100030: Ship_5_2_2_20.002
+    100032: Ship_5_2_2_21.002
+    100034: Ship_5_2_2_22.002
+    100036: Ship_5_2_2_23.002
+    100038: Ship_5_2_2_24.002
+    100040: Ship_5_2_2_25.002
+    100042: Ship_5_2_2_26.002
+    100044: Ship_5_2_2_27.002
+    100046: Ship_5_2_2_28.002
+    100048: Ship_5_2_2_29.002
+    100050: Ship_5_2_2_30.002
+    100052: Ship_5_2_2_31.002
+    100054: Ship_5_2_2_32.002
+    100056: Ship_5_2_2_33.002
+    100058: Ship_5_2_2_34.002
+    100060: Ship_5_2_2_35.002
+    100062: Ship_5_2_2_36.002
+    100064: Ship_5_2_2_6.002
+    100066: Ship_5_2_2_7.002
+    400000: //RootNode
+    400002: Ship_5_2_1_18.002
+    400004: Ship_5_2_1_19.002
+    400006: Ship_5_2_1_20.002
+    400008: Ship_5_2_1_21.002
+    400010: Ship_5_2_1_22.002
+    400012: Ship_5_2_1_23.002
+    400014: Ship_5_2_1_24.002
+    400016: Ship_5_2_1_25.002
+    400018: Ship_5_2_1_26.002
+    400020: Ship_5_2_1_7.002
+    400022: Ship_5_2_1_8.002
+    400024: Ship_5_2_2_17.002
+    400026: Ship_5_2_2_18.002
+    400028: Ship_5_2_2_19.002
+    400030: Ship_5_2_2_20.002
+    400032: Ship_5_2_2_21.002
+    400034: Ship_5_2_2_22.002
+    400036: Ship_5_2_2_23.002
+    400038: Ship_5_2_2_24.002
+    400040: Ship_5_2_2_25.002
+    400042: Ship_5_2_2_26.002
+    400044: Ship_5_2_2_27.002
+    400046: Ship_5_2_2_28.002
+    400048: Ship_5_2_2_29.002
+    400050: Ship_5_2_2_30.002
+    400052: Ship_5_2_2_31.002
+    400054: Ship_5_2_2_32.002
+    400056: Ship_5_2_2_33.002
+    400058: Ship_5_2_2_34.002
+    400060: Ship_5_2_2_35.002
+    400062: Ship_5_2_2_36.002
+    400064: Ship_5_2_2_6.002
+    400066: Ship_5_2_2_7.002
+    2100000: Ship mast
+    2100002: Ship Wheel
+    2300000: Ship_5_2_1_18.002
+    2300002: Ship_5_2_1_19.002
+    2300004: Ship_5_2_1_20.002
+    2300006: Ship_5_2_1_21.002
+    2300008: Ship_5_2_1_22.002
+    2300010: Ship_5_2_1_23.002
+    2300012: Ship_5_2_1_24.002
+    2300014: Ship_5_2_1_25.002
+    2300016: Ship_5_2_1_26.002
+    2300018: Ship_5_2_1_7.002
+    2300020: Ship_5_2_1_8.002
+    2300022: Ship_5_2_2_17.002
+    2300024: Ship_5_2_2_18.002
+    2300026: Ship_5_2_2_19.002
+    2300028: Ship_5_2_2_20.002
+    2300030: Ship_5_2_2_21.002
+    2300032: Ship_5_2_2_22.002
+    2300034: Ship_5_2_2_23.002
+    2300036: Ship_5_2_2_24.002
+    2300038: Ship_5_2_2_25.002
+    2300040: Ship_5_2_2_26.002
+    2300042: Ship_5_2_2_27.002
+    2300044: Ship_5_2_2_28.002
+    2300046: Ship_5_2_2_29.002
+    2300048: Ship_5_2_2_30.002
+    2300050: Ship_5_2_2_31.002
+    2300052: Ship_5_2_2_32.002
+    2300054: Ship_5_2_2_33.002
+    2300056: Ship_5_2_2_34.002
+    2300058: Ship_5_2_2_35.002
+    2300060: Ship_5_2_2_36.002
+    2300062: Ship_5_2_2_6.002
+    2300064: Ship_5_2_2_7.002
+    3300000: Ship_5_2_1_18.002
+    3300002: Ship_5_2_1_19.002
+    3300004: Ship_5_2_1_20.002
+    3300006: Ship_5_2_1_21.002
+    3300008: Ship_5_2_1_22.002
+    3300010: Ship_5_2_1_23.002
+    3300012: Ship_5_2_1_24.002
+    3300014: Ship_5_2_1_25.002
+    3300016: Ship_5_2_1_26.002
+    3300018: Ship_5_2_1_7.002
+    3300020: Ship_5_2_1_8.002
+    3300022: Ship_5_2_2_17.002
+    3300024: Ship_5_2_2_18.002
+    3300026: Ship_5_2_2_19.002
+    3300028: Ship_5_2_2_20.002
+    3300030: Ship_5_2_2_21.002
+    3300032: Ship_5_2_2_22.002
+    3300034: Ship_5_2_2_23.002
+    3300036: Ship_5_2_2_24.002
+    3300038: Ship_5_2_2_25.002
+    3300040: Ship_5_2_2_26.002
+    3300042: Ship_5_2_2_27.002
+    3300044: Ship_5_2_2_28.002
+    3300046: Ship_5_2_2_29.002
+    3300048: Ship_5_2_2_30.002
+    3300050: Ship_5_2_2_31.002
+    3300052: Ship_5_2_2_32.002
+    3300054: Ship_5_2_2_33.002
+    3300056: Ship_5_2_2_34.002
+    3300058: Ship_5_2_2_35.002
+    3300060: Ship_5_2_2_36.002
+    3300062: Ship_5_2_2_6.002
+    3300064: Ship_5_2_2_7.002
+    4300000: Ship_5_2_1_26.002
+    4300002: Ship_5_2_1_25.002
+    4300004: Ship_5_2_1_24.002
+    4300006: Ship_5_2_1_23.002
+    4300008: Ship_5_2_1_22.002
+    4300010: Ship_5_2_1_21.002
+    4300012: Ship_5_2_1_20.002
+    4300014: Ship_5_2_1_19.002
+    4300016: Ship_5_2_1_18.002
+    4300018: Ship_5_2_1_8.002
+    4300020: Ship_5_2_1_7.002
+    4300022: Ship_5_2_2_36.002
+    4300024: Ship_5_2_2_35.002
+    4300026: Ship_5_2_2_34.002
+    4300028: Ship_5_2_2_33.002
+    4300030: Ship_5_2_2_32.002
+    4300032: Ship_5_2_2_31.002
+    4300034: Ship_5_2_2_30.002
+    4300036: Ship_5_2_2_29.002
+    4300038: Ship_5_2_2_28.002
+    4300040: Ship_5_2_2_27.002
+    4300042: Ship_5_2_2_26.002
+    4300044: Ship_5_2_2_25.002
+    4300046: Ship_5_2_2_24.002
+    4300048: Ship_5_2_2_23.002
+    4300050: Ship_5_2_2_22.002
+    4300052: Ship_5_2_2_21.002
+    4300054: Ship_5_2_2_20.002
+    4300056: Ship_5_2_2_19.002
+    4300058: Ship_5_2_2_18.002
+    4300060: Ship_5_2_2_17.002
+    4300062: Ship_5_2_2_7.002
+    4300064: Ship_5_2_2_6.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Wheel
+    second: {fileID: 2100000, guid: b9e062c86f8a89a4b8c0b85e37b54ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship mast
+    second: {fileID: 2100000, guid: 7ac17f2342eb4264dba733437381fab8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

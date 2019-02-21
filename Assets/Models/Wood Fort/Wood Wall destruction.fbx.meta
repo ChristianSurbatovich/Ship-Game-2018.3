@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 52d771c4fa6de7f49932be40788ba827
+timeCreated: 1521709909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.271
+    100002: Cube.272
+    100004: Cube.273
+    100006: Cube.274
+    100008: Cube.275
+    100010: Cube.276
+    100012: Cube.277
+    100014: Cube.278
+    100016: Cube.279
+    100018: Cube.280
+    100020: Cube.281
+    100022: Cube.282
+    100024: Cube.283
+    100026: Cube.284
+    100028: Cube.285
+    100030: Cube.286
+    100032: Cube.287
+    100034: Cube.288
+    100036: Cube.289
+    100038: Cube.290
+    100040: Cube.291
+    100042: Cube.292
+    100044: Cube.293
+    100046: Cube.294
+    100048: //RootNode
+    400000: Cube.271
+    400002: Cube.272
+    400004: Cube.273
+    400006: Cube.274
+    400008: Cube.275
+    400010: Cube.276
+    400012: Cube.277
+    400014: Cube.278
+    400016: Cube.279
+    400018: Cube.280
+    400020: Cube.281
+    400022: Cube.282
+    400024: Cube.283
+    400026: Cube.284
+    400028: Cube.285
+    400030: Cube.286
+    400032: Cube.287
+    400034: Cube.288
+    400036: Cube.289
+    400038: Cube.290
+    400040: Cube.291
+    400042: Cube.292
+    400044: Cube.293
+    400046: Cube.294
+    400048: //RootNode
+    2100000: Ship Hull
+    2300000: Cube.271
+    2300002: Cube.272
+    2300004: Cube.273
+    2300006: Cube.274
+    2300008: Cube.275
+    2300010: Cube.276
+    2300012: Cube.277
+    2300014: Cube.278
+    2300016: Cube.279
+    2300018: Cube.280
+    2300020: Cube.281
+    2300022: Cube.282
+    2300024: Cube.283
+    2300026: Cube.284
+    2300028: Cube.285
+    2300030: Cube.286
+    2300032: Cube.287
+    2300034: Cube.288
+    2300036: Cube.289
+    2300038: Cube.290
+    2300040: Cube.291
+    2300042: Cube.292
+    2300044: Cube.293
+    2300046: Cube.294
+    3300000: Cube.271
+    3300002: Cube.272
+    3300004: Cube.273
+    3300006: Cube.274
+    3300008: Cube.275
+    3300010: Cube.276
+    3300012: Cube.277
+    3300014: Cube.278
+    3300016: Cube.279
+    3300018: Cube.280
+    3300020: Cube.281
+    3300022: Cube.282
+    3300024: Cube.283
+    3300026: Cube.284
+    3300028: Cube.285
+    3300030: Cube.286
+    3300032: Cube.287
+    3300034: Cube.288
+    3300036: Cube.289
+    3300038: Cube.290
+    3300040: Cube.291
+    3300042: Cube.292
+    3300044: Cube.293
+    3300046: Cube.294
+    4300000: Cube.294
+    4300002: Cube.293
+    4300004: Cube.292
+    4300006: Cube.291
+    4300008: Cube.290
+    4300010: Cube.289
+    4300012: Cube.288
+    4300014: Cube.287
+    4300016: Cube.286
+    4300018: Cube.285
+    4300020: Cube.284
+    4300022: Cube.283
+    4300024: Cube.282
+    4300026: Cube.281
+    4300028: Cube.280
+    4300030: Cube.279
+    4300032: Cube.278
+    4300034: Cube.277
+    4300036: Cube.276
+    4300038: Cube.275
+    4300040: Cube.274
+    4300042: Cube.273
+    4300044: Cube.272
+    4300046: Cube.271
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

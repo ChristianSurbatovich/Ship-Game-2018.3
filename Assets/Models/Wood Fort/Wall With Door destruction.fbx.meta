@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: c655b8af5e1d40f40bdc87eaeddd77ce
+timeCreated: 1521709537
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.295
+    100002: Cube.296
+    100004: Cube.297
+    100006: Cube.298
+    100008: Cube.299
+    100010: Cube.300
+    100012: Cube.301
+    100014: Cube.302
+    100016: Cube.303
+    100018: Cube.304
+    100020: Cube.305
+    100022: Cube.306
+    100024: Cube.307
+    100026: Cube.308
+    100028: Cube.309
+    100030: Cube.310
+    100032: Cube.311
+    100034: Cube.312
+    100036: //RootNode
+    400000: Cube.295
+    400002: Cube.296
+    400004: Cube.297
+    400006: Cube.298
+    400008: Cube.299
+    400010: Cube.300
+    400012: Cube.301
+    400014: Cube.302
+    400016: Cube.303
+    400018: Cube.304
+    400020: Cube.305
+    400022: Cube.306
+    400024: Cube.307
+    400026: Cube.308
+    400028: Cube.309
+    400030: Cube.310
+    400032: Cube.311
+    400034: Cube.312
+    400036: //RootNode
+    2100000: Ship Hull
+    2300000: Cube.295
+    2300002: Cube.296
+    2300004: Cube.297
+    2300006: Cube.298
+    2300008: Cube.299
+    2300010: Cube.300
+    2300012: Cube.301
+    2300014: Cube.302
+    2300016: Cube.303
+    2300018: Cube.304
+    2300020: Cube.305
+    2300022: Cube.306
+    2300024: Cube.307
+    2300026: Cube.308
+    2300028: Cube.309
+    2300030: Cube.310
+    2300032: Cube.311
+    2300034: Cube.312
+    3300000: Cube.295
+    3300002: Cube.296
+    3300004: Cube.297
+    3300006: Cube.298
+    3300008: Cube.299
+    3300010: Cube.300
+    3300012: Cube.301
+    3300014: Cube.302
+    3300016: Cube.303
+    3300018: Cube.304
+    3300020: Cube.305
+    3300022: Cube.306
+    3300024: Cube.307
+    3300026: Cube.308
+    3300028: Cube.309
+    3300030: Cube.310
+    3300032: Cube.311
+    3300034: Cube.312
+    4300000: Cube.312
+    4300002: Cube.311
+    4300004: Cube.310
+    4300006: Cube.309
+    4300008: Cube.308
+    4300010: Cube.307
+    4300012: Cube.306
+    4300014: Cube.305
+    4300016: Cube.304
+    4300018: Cube.303
+    4300020: Cube.302
+    4300022: Cube.301
+    4300024: Cube.300
+    4300026: Cube.299
+    4300028: Cube.298
+    4300030: Cube.297
+    4300032: Cube.296
+    4300034: Cube.295
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: 47fbd451c20dce1498361d38c1a39695
+timeCreated: 1521793691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Board.027
+    100002: Board.028
+    100004: Board.029
+    100006: Board.030
+    100008: Board.032
+    100010: Board.033
+    100012: Board.034
+    100014: Board.035
+    100016: Board.036
+    100018: Board.038
+    100020: Board.039
+    100022: Board.040
+    100024: Board.041
+    100026: Board.042
+    100028: Board.043
+    100030: Board.044
+    100032: Board.045
+    100034: Board.046
+    100036: Board.047
+    100038: Board.048
+    100040: Board.049
+    100042: Board.050
+    100044: Board.051
+    100046: Board.052
+    100048: Board.053
+    100050: Board.054
+    100052: Board.055
+    100054: Board.056
+    100056: Board.057
+    100058: Board.058
+    100060: Board.059
+    100062: Board.060
+    100064: Board.061
+    100066: Board.062
+    100068: Board.063
+    100070: Board.064
+    100072: Board.065
+    100074: Board.066
+    100076: Board.067
+    100078: Board.068
+    100080: Board.069
+    100082: Board.070
+    100084: Board.071
+    100086: Board.072
+    100088: Board.073
+    100090: Board.074
+    100092: Board.075
+    100094: Board.076
+    100096: Board.077
+    100098: Board.078
+    100100: Board.079
+    100102: Board.081
+    100104: Board.083
+    100106: Board.084
+    100108: Board.086
+    100110: Board.089
+    100112: Board.090
+    100114: Board.091
+    100116: Board.092
+    100118: Board.093
+    100120: Board.094
+    100122: Board.095
+    100124: Board.096
+    100126: Board.097
+    100128: Board.098
+    100130: Board.099
+    100132: Board.100
+    100134: Board.101
+    100136: Board.102
+    100138: Board.103
+    100140: Board.104
+    100142: Board.105
+    100144: Board.106
+    100146: Board.107
+    100148: Cube.008
+    100150: Cube.009
+    100152: Cube.010
+    100154: Cube.011
+    100156: Cube.012
+    100158: Cube.013
+    100160: Cube.014
+    100162: Cube.015
+    100164: Cube.016
+    100166: Cube.017
+    100168: Cube.018
+    100170: Cube.019
+    100172: Cube.020
+    100174: Cube.021
+    100176: Cube.022
+    100178: Cube.023
+    100180: Cube.024
+    100182: Cube.025
+    100184: Cube.026
+    100186: Cube.027
+    100188: Cube.028
+    100190: Cube.029
+    100192: Cube.030
+    100194: Roof Tile Block.003
+    100196: Roof Tile Block.004
+    100198: Roof Tile Block.005
+    100200: Roof Tile Block.006
+    100202: Roof Tile Block.007
+    100204: Roof Tile Block.008
+    100206: Roof Tile Block.009
+    100208: Roof Tile Block.010
+    100210: Roof Tile Block.011
+    100212: Roof Tile Block.012
+    100214: Roof Tile Block.013
+    100216: Roof Tile Block.014
+    100218: Roof Tile Block.015
+    100220: Roof Tile Block.016
+    100222: Roof Tile Block.017
+    100224: Roof Tile Block.018
+    100226: Roof Tile Block.019
+    100228: Roof Tile Block.020
+    100230: Roof Tile Block.021
+    100232: Roof Tile Block.022
+    100234: Roof Tile Block.023
+    100236: Roof Tile Block.024
+    100238: Roof Tile Block.025
+    100240: Roof Tile Block.026
+    100242: Roof Tile Block.027
+    100244: Roof Tile Block.028
+    100246: Roof Tile Block.029
+    100248: Roof Tile Block.030
+    100250: Roof Tile Block.031
+    100252: Roof Tile Block.032
+    100254: Roof Tile Block.033
+    100256: Roof Tile Block.034
+    100258: Roof Tile Block.035
+    100260: Roof Tile Block.036
+    100262: Roof Tile Block.037
+    100264: Roof Tile Block.038
+    100266: Roof Tile Block.039
+    100268: Roof Tile Block.040
+    100270: Roof Tile Block.041
+    100272: Roof Tile Block.042
+    100274: Roof Tile Block.043
+    100276: Roof Tile Block.044
+    100278: Roof Tile Block.045
+    100280: Roof Tile Block.046
+    100282: Roof Tile Block.047
+    100284: Roof Tile Block.048
+    100286: Roof Tile Block.049
+    100288: Roof Tile Block.050
+    100290: Roof Tile Block.051
+    100292: Roof Tile Block.052
+    100294: Roof Tile Block.053
+    100296: Roof Tile Block.054
+    100298: Roof Tile Block.055
+    100300: Roof Tile Block.056
+    100302: Roof Tile Block.057
+    100304: Roof Tile Block.058
+    100306: Roof Tile Block.059
+    100308: Roof Tile Block.060
+    100310: Roof Tile Block.061
+    100312: Roof Tile Block.062
+    100314: Roof Tile Block.063
+    100316: Roof Tile Block.064
+    100318: Roof Tile Block.065
+    100320: Roof Tile Block.066
+    100322: Roof Tile Block.067
+    100324: Roof Tile Block.068
+    100326: Roof Tile Block.069
+    100328: Roof Tile Block.070
+    100330: Roof Tile Block.071
+    100332: Roof Tile Block.072
+    100334: Roof Tile Block.073
+    100336: Roof Tile Block.074
+    100338: Roof Tile Block.075
+    100340: Roof Tile Block.076
+    100342: Roof Tile Block.077
+    100344: Roof Tile Block.078
+    100346: Roof Tile Block.079
+    100348: Roof Tile Block.080
+    100350: Roof Tile Block.081
+    100352: Roof Tile Block.082
+    100354: Roof Tile Block.083
+    100356: Roof Tile Block.084
+    100358: Roof Tile Block.085
+    100360: Roof Tile Block.086
+    100362: Roof Tile Block.087
+    100364: Roof Tile Block.088
+    100366: Roof Tile Block.089
+    100368: Roof Tile Block.090
+    100370: Roof Tile Block.091
+    100372: Roof Tile Block.092
+    100374: Roof Tile Block.093
+    100376: Roof Tile Block.094
+    100378: Roof Tile Block.095
+    100380: Roof Tile Block.096
+    100382: Roof Tile Block.097
+    100384: Roof Tile Block.098
+    100386: Roof Tile Block.099
+    100388: Roof Tile Block.100
+    100390: Roof Tile Block.101
+    100392: Roof Tile Block.102
+    100394: Roof Tile Block.103
+    100396: Roof Tile Block.104
+    100398: Roof Tile Block.105
+    100400: Roof Tile Block.106
+    100402: Roof Tile Block.107
+    100404: Roof Tile Block.108
+    100406: Roof Tile Block.109
+    100408: Roof Tile Block.110
+    100410: Roof Tile Block.111
+    100412: Roof Tile Block.112
+    100414: Roof Tile Block.113
+    100416: Roof Tile Block.114
+    100418: Roof Tile Block.115
+    100420: Roof Tile Block.116
+    100422: Roof Tile Block.117
+    100424: Roof Tile Block.118
+    100426: Roof Tile Block.119
+    100428: Roof Tile Block.120
+    100430: Roof Tile Block.121
+    100432: Roof Tile Block.122
+    100434: Roof Tile Block.123
+    100436: Roof Tile Block.124
+    100438: Roof Tile Block.125
+    100440: Roof Tile Block.126
+    100442: Roof Tile Block.127
+    100444: Roof Tile Block.128
+    100446: Roof Tile Block.129
+    100448: Roof Tile Block.130
+    100450: Roof Tile Block.131
+    100452: Roof Tile Block.132
+    100454: Roof Tile Block.133
+    100456: Roof Tile Block.134
+    100458: Roof Tile Block.135
+    100460: Roof Tile Block.136
+    100462: Roof Tile Block.137
+    100464: Roof Tile Block.138
+    100466: Roof Tile Block.139
+    100468: Roof Tile Block.140
+    100470: Roof Tile Block.141
+    100472: Roof Tile Block.142
+    100474: Roof Tile Block.143
+    100476: Roof Tile Block.144
+    100478: Roof Tile Block.145
+    100480: Roof Tile Block.146
+    100482: Roof Tile Block.147
+    100484: Roof Tile Block.148
+    100486: Roof Tile Block.149
+    100488: Roof Tile Block.150
+    100490: Roof Tile Block.151
+    100492: Roof Tile Block.152
+    100494: Roof Tile Block.153
+    100496: Roof Tile Block.154
+    100498: Roof Tile Block.155
+    100500: Roof Tile Block.156
+    100502: Roof Tile Block.157
+    100504: Roof Tile Block.158
+    100506: Roof Tile Block.159
+    100508: Roof Tile Block.160
+    100510: Roof Tile Block.161
+    100512: Roof Tile Block.162
+    100514: Roof Tile Block.163
+    100516: Roof Tile Block.164
+    100518: Roof Tile Block.165
+    100520: Roof Tile Block.166
+    100522: Roof Tile Block.167
+    100524: Roof Tile Block.168
+    100526: Roof Tile Block.169
+    100528: Roof Tile Block.170
+    100530: Roof Tile Block.171
+    100532: Roof Tile Block.172
+    100534: Roof Tile Block.173
+    100536: Roof Tile Block.174
+    100538: Roof Tile Block.175
+    100540: Roof Tile Block.176
+    100542: Roof Tile Block.177
+    100544: Roof Tile Block.178
+    100546: Roof Tile Block.179
+    100548: Roof Tile Block.180
+    100550: Roof Tile Block.181
+    100552: Roof Tile Block.182
+    100554: Roof Tile Block.183
+    100556: Roof Tile Block.184
+    100558: Roof Tile Block.185
+    100560: Roof Tile Block.186
+    100562: Roof Tile Block.187
+    100564: Roof Tile Block.188
+    100566: Roof Tile Block.189
+    100568: Roof Tile Block.190
+    100570: Roof Tile Block.191
+    100572: Roof Tile Block.192
+    100574: Roof Tile Block.193
+    100576: Roof Tile Block.194
+    100578: Roof Tile Block.195
+    100580: Roof Tile Block.196
+    100582: Roof Tile Block.197
+    100584: Roof Tile Block.198
+    100586: Roof Tile Block.199
+    100588: Roof Tile Block.200
+    100590: Roof Tile Block.201
+    100592: Roof Tile Block.202
+    100594: Roof Tile Block.203
+    100596: Roof Tile Block.204
+    100598: Roof Tile Block.205
+    100600: Roof Tile Block.206
+    100602: Roof Tile Block.207
+    100604: Roof Tile Block.208
+    100606: Roof Tile Block.209
+    100608: Roof Tile Block.210
+    100610: Roof Tile Block.211
+    100612: Roof Tile Block.212
+    100614: Roof Tile Block.213
+    100616: Roof Tile Block.214
+    100618: Roof Tile Block.215
+    100620: Roof Tile Block.216
+    100622: Roof Tile Block.217
+    100624: Roof Tile Block.218
+    100626: Roof Tile Block.219
+    100628: Roof Tile Block.220
+    100630: Roof Tile Block.221
+    100632: Roof Tile Block.222
+    100634: Roof Tile Block.223
+    100636: Roof Tile Block.224
+    100638: //RootNode
+    400000: Board.027
+    400002: Board.028
+    400004: Board.029
+    400006: Board.030
+    400008: Board.032
+    400010: Board.033
+    400012: Board.034
+    400014: Board.035
+    400016: Board.036
+    400018: Board.038
+    400020: Board.039
+    400022: Board.040
+    400024: Board.041
+    400026: Board.042
+    400028: Board.043
+    400030: Board.044
+    400032: Board.045
+    400034: Board.046
+    400036: Board.047
+    400038: Board.048
+    400040: Board.049
+    400042: Board.050
+    400044: Board.051
+    400046: Board.052
+    400048: Board.053
+    400050: Board.054
+    400052: Board.055
+    400054: Board.056
+    400056: Board.057
+    400058: Board.058
+    400060: Board.059
+    400062: Board.060
+    400064: Board.061
+    400066: Board.062
+    400068: Board.063
+    400070: Board.064
+    400072: Board.065
+    400074: Board.066
+    400076: Board.067
+    400078: Board.068
+    400080: Board.069
+    400082: Board.070
+    400084: Board.071
+    400086: Board.072
+    400088: Board.073
+    400090: Board.074
+    400092: Board.075
+    400094: Board.076
+    400096: Board.077
+    400098: Board.078
+    400100: Board.079
+    400102: Board.081
+    400104: Board.083
+    400106: Board.084
+    400108: Board.086
+    400110: Board.089
+    400112: Board.090
+    400114: Board.091
+    400116: Board.092
+    400118: Board.093
+    400120: Board.094
+    400122: Board.095
+    400124: Board.096
+    400126: Board.097
+    400128: Board.098
+    400130: Board.099
+    400132: Board.100
+    400134: Board.101
+    400136: Board.102
+    400138: Board.103
+    400140: Board.104
+    400142: Board.105
+    400144: Board.106
+    400146: Board.107
+    400148: Cube.008
+    400150: Cube.009
+    400152: Cube.010
+    400154: Cube.011
+    400156: Cube.012
+    400158: Cube.013
+    400160: Cube.014
+    400162: Cube.015
+    400164: Cube.016
+    400166: Cube.017
+    400168: Cube.018
+    400170: Cube.019
+    400172: Cube.020
+    400174: Cube.021
+    400176: Cube.022
+    400178: Cube.023
+    400180: Cube.024
+    400182: Cube.025
+    400184: Cube.026
+    400186: Cube.027
+    400188: Cube.028
+    400190: Cube.029
+    400192: Cube.030
+    400194: Roof Tile Block.003
+    400196: Roof Tile Block.004
+    400198: Roof Tile Block.005
+    400200: Roof Tile Block.006
+    400202: Roof Tile Block.007
+    400204: Roof Tile Block.008
+    400206: Roof Tile Block.009
+    400208: Roof Tile Block.010
+    400210: Roof Tile Block.011
+    400212: Roof Tile Block.012
+    400214: Roof Tile Block.013
+    400216: Roof Tile Block.014
+    400218: Roof Tile Block.015
+    400220: Roof Tile Block.016
+    400222: Roof Tile Block.017
+    400224: Roof Tile Block.018
+    400226: Roof Tile Block.019
+    400228: Roof Tile Block.020
+    400230: Roof Tile Block.021
+    400232: Roof Tile Block.022
+    400234: Roof Tile Block.023
+    400236: Roof Tile Block.024
+    400238: Roof Tile Block.025
+    400240: Roof Tile Block.026
+    400242: Roof Tile Block.027
+    400244: Roof Tile Block.028
+    400246: Roof Tile Block.029
+    400248: Roof Tile Block.030
+    400250: Roof Tile Block.031
+    400252: Roof Tile Block.032
+    400254: Roof Tile Block.033
+    400256: Roof Tile Block.034
+    400258: Roof Tile Block.035
+    400260: Roof Tile Block.036
+    400262: Roof Tile Block.037
+    400264: Roof Tile Block.038
+    400266: Roof Tile Block.039
+    400268: Roof Tile Block.040
+    400270: Roof Tile Block.041
+    400272: Roof Tile Block.042
+    400274: Roof Tile Block.043
+    400276: Roof Tile Block.044
+    400278: Roof Tile Block.045
+    400280: Roof Tile Block.046
+    400282: Roof Tile Block.047
+    400284: Roof Tile Block.048
+    400286: Roof Tile Block.049
+    400288: Roof Tile Block.050
+    400290: Roof Tile Block.051
+    400292: Roof Tile Block.052
+    400294: Roof Tile Block.053
+    400296: Roof Tile Block.054
+    400298: Roof Tile Block.055
+    400300: Roof Tile Block.056
+    400302: Roof Tile Block.057
+    400304: Roof Tile Block.058
+    400306: Roof Tile Block.059
+    400308: Roof Tile Block.060
+    400310: Roof Tile Block.061
+    400312: Roof Tile Block.062
+    400314: Roof Tile Block.063
+    400316: Roof Tile Block.064
+    400318: Roof Tile Block.065
+    400320: Roof Tile Block.066
+    400322: Roof Tile Block.067
+    400324: Roof Tile Block.068
+    400326: Roof Tile Block.069
+    400328: Roof Tile Block.070
+    400330: Roof Tile Block.071
+    400332: Roof Tile Block.072
+    400334: Roof Tile Block.073
+    400336: Roof Tile Block.074
+    400338: Roof Tile Block.075
+    400340: Roof Tile Block.076
+    400342: Roof Tile Block.077
+    400344: Roof Tile Block.078
+    400346: Roof Tile Block.079
+    400348: Roof Tile Block.080
+    400350: Roof Tile Block.081
+    400352: Roof Tile Block.082
+    400354: Roof Tile Block.083
+    400356: Roof Tile Block.084
+    400358: Roof Tile Block.085
+    400360: Roof Tile Block.086
+    400362: Roof Tile Block.087
+    400364: Roof Tile Block.088
+    400366: Roof Tile Block.089
+    400368: Roof Tile Block.090
+    400370: Roof Tile Block.091
+    400372: Roof Tile Block.092
+    400374: Roof Tile Block.093
+    400376: Roof Tile Block.094
+    400378: Roof Tile Block.095
+    400380: Roof Tile Block.096
+    400382: Roof Tile Block.097
+    400384: Roof Tile Block.098
+    400386: Roof Tile Block.099
+    400388: Roof Tile Block.100
+    400390: Roof Tile Block.101
+    400392: Roof Tile Block.102
+    400394: Roof Tile Block.103
+    400396: Roof Tile Block.104
+    400398: Roof Tile Block.105
+    400400: Roof Tile Block.106
+    400402: Roof Tile Block.107
+    400404: Roof Tile Block.108
+    400406: Roof Tile Block.109
+    400408: Roof Tile Block.110
+    400410: Roof Tile Block.111
+    400412: Roof Tile Block.112
+    400414: Roof Tile Block.113
+    400416: Roof Tile Block.114
+    400418: Roof Tile Block.115
+    400420: Roof Tile Block.116
+    400422: Roof Tile Block.117
+    400424: Roof Tile Block.118
+    400426: Roof Tile Block.119
+    400428: Roof Tile Block.120
+    400430: Roof Tile Block.121
+    400432: Roof Tile Block.122
+    400434: Roof Tile Block.123
+    400436: Roof Tile Block.124
+    400438: Roof Tile Block.125
+    400440: Roof Tile Block.126
+    400442: Roof Tile Block.127
+    400444: Roof Tile Block.128
+    400446: Roof Tile Block.129
+    400448: Roof Tile Block.130
+    400450: Roof Tile Block.131
+    400452: Roof Tile Block.132
+    400454: Roof Tile Block.133
+    400456: Roof Tile Block.134
+    400458: Roof Tile Block.135
+    400460: Roof Tile Block.136
+    400462: Roof Tile Block.137
+    400464: Roof Tile Block.138
+    400466: Roof Tile Block.139
+    400468: Roof Tile Block.140
+    400470: Roof Tile Block.141
+    400472: Roof Tile Block.142
+    400474: Roof Tile Block.143
+    400476: Roof Tile Block.144
+    400478: Roof Tile Block.145
+    400480: Roof Tile Block.146
+    400482: Roof Tile Block.147
+    400484: Roof Tile Block.148
+    400486: Roof Tile Block.149
+    400488: Roof Tile Block.150
+    400490: Roof Tile Block.151
+    400492: Roof Tile Block.152
+    400494: Roof Tile Block.153
+    400496: Roof Tile Block.154
+    400498: Roof Tile Block.155
+    400500: Roof Tile Block.156
+    400502: Roof Tile Block.157
+    400504: Roof Tile Block.158
+    400506: Roof Tile Block.159
+    400508: Roof Tile Block.160
+    400510: Roof Tile Block.161
+    400512: Roof Tile Block.162
+    400514: Roof Tile Block.163
+    400516: Roof Tile Block.164
+    400518: Roof Tile Block.165
+    400520: Roof Tile Block.166
+    400522: Roof Tile Block.167
+    400524: Roof Tile Block.168
+    400526: Roof Tile Block.169
+    400528: Roof Tile Block.170
+    400530: Roof Tile Block.171
+    400532: Roof Tile Block.172
+    400534: Roof Tile Block.173
+    400536: Roof Tile Block.174
+    400538: Roof Tile Block.175
+    400540: Roof Tile Block.176
+    400542: Roof Tile Block.177
+    400544: Roof Tile Block.178
+    400546: Roof Tile Block.179
+    400548: Roof Tile Block.180
+    400550: Roof Tile Block.181
+    400552: Roof Tile Block.182
+    400554: Roof Tile Block.183
+    400556: Roof Tile Block.184
+    400558: Roof Tile Block.185
+    400560: Roof Tile Block.186
+    400562: Roof Tile Block.187
+    400564: Roof Tile Block.188
+    400566: Roof Tile Block.189
+    400568: Roof Tile Block.190
+    400570: Roof Tile Block.191
+    400572: Roof Tile Block.192
+    400574: Roof Tile Block.193
+    400576: Roof Tile Block.194
+    400578: Roof Tile Block.195
+    400580: Roof Tile Block.196
+    400582: Roof Tile Block.197
+    400584: Roof Tile Block.198
+    400586: Roof Tile Block.199
+    400588: Roof Tile Block.200
+    400590: Roof Tile Block.201
+    400592: Roof Tile Block.202
+    400594: Roof Tile Block.203
+    400596: Roof Tile Block.204
+    400598: Roof Tile Block.205
+    400600: Roof Tile Block.206
+    400602: Roof Tile Block.207
+    400604: Roof Tile Block.208
+    400606: Roof Tile Block.209
+    400608: Roof Tile Block.210
+    400610: Roof Tile Block.211
+    400612: Roof Tile Block.212
+    400614: Roof Tile Block.213
+    400616: Roof Tile Block.214
+    400618: Roof Tile Block.215
+    400620: Roof Tile Block.216
+    400622: Roof Tile Block.217
+    400624: Roof Tile Block.218
+    400626: Roof Tile Block.219
+    400628: Roof Tile Block.220
+    400630: Roof Tile Block.221
+    400632: Roof Tile Block.222
+    400634: Roof Tile Block.223
+    400636: Roof Tile Block.224
+    400638: //RootNode
+    2100000: Ship Hull
+    2100002: Wood Shingle
+    2100004: Stone
+    2300000: Board.027
+    2300002: Board.028
+    2300004: Board.029
+    2300006: Board.030
+    2300008: Board.032
+    2300010: Board.033
+    2300012: Board.034
+    2300014: Board.035
+    2300016: Board.036
+    2300018: Board.038
+    2300020: Board.039
+    2300022: Board.040
+    2300024: Board.041
+    2300026: Board.042
+    2300028: Board.043
+    2300030: Board.044
+    2300032: Board.045
+    2300034: Board.046
+    2300036: Board.047
+    2300038: Board.048
+    2300040: Board.049
+    2300042: Board.050
+    2300044: Board.051
+    2300046: Board.052
+    2300048: Board.053
+    2300050: Board.054
+    2300052: Board.055
+    2300054: Board.056
+    2300056: Board.057
+    2300058: Board.058
+    2300060: Board.059
+    2300062: Board.060
+    2300064: Board.061
+    2300066: Board.062
+    2300068: Board.063
+    2300070: Board.064
+    2300072: Board.065
+    2300074: Board.066
+    2300076: Board.067
+    2300078: Board.068
+    2300080: Board.069
+    2300082: Board.070
+    2300084: Board.071
+    2300086: Board.072
+    2300088: Board.073
+    2300090: Board.074
+    2300092: Board.075
+    2300094: Board.076
+    2300096: Board.077
+    2300098: Board.078
+    2300100: Board.079
+    2300102: Board.081
+    2300104: Board.083
+    2300106: Board.084
+    2300108: Board.086
+    2300110: Board.089
+    2300112: Board.090
+    2300114: Board.091
+    2300116: Board.092
+    2300118: Board.093
+    2300120: Board.094
+    2300122: Board.095
+    2300124: Board.096
+    2300126: Board.097
+    2300128: Board.098
+    2300130: Board.099
+    2300132: Board.100
+    2300134: Board.101
+    2300136: Board.102
+    2300138: Board.103
+    2300140: Board.104
+    2300142: Board.105
+    2300144: Board.106
+    2300146: Board.107
+    2300148: Cube.008
+    2300150: Cube.009
+    2300152: Cube.010
+    2300154: Cube.011
+    2300156: Cube.012
+    2300158: Cube.013
+    2300160: Cube.014
+    2300162: Cube.015
+    2300164: Cube.016
+    2300166: Cube.017
+    2300168: Cube.018
+    2300170: Cube.019
+    2300172: Cube.020
+    2300174: Cube.021
+    2300176: Cube.022
+    2300178: Cube.023
+    2300180: Cube.024
+    2300182: Cube.025
+    2300184: Cube.026
+    2300186: Cube.027
+    2300188: Cube.028
+    2300190: Cube.029
+    2300192: Cube.030
+    2300194: Roof Tile Block.003
+    2300196: Roof Tile Block.004
+    2300198: Roof Tile Block.005
+    2300200: Roof Tile Block.006
+    2300202: Roof Tile Block.007
+    2300204: Roof Tile Block.008
+    2300206: Roof Tile Block.009
+    2300208: Roof Tile Block.010
+    2300210: Roof Tile Block.011
+    2300212: Roof Tile Block.012
+    2300214: Roof Tile Block.013
+    2300216: Roof Tile Block.014
+    2300218: Roof Tile Block.015
+    2300220: Roof Tile Block.016
+    2300222: Roof Tile Block.017
+    2300224: Roof Tile Block.018
+    2300226: Roof Tile Block.019
+    2300228: Roof Tile Block.020
+    2300230: Roof Tile Block.021
+    2300232: Roof Tile Block.022
+    2300234: Roof Tile Block.023
+    2300236: Roof Tile Block.024
+    2300238: Roof Tile Block.025
+    2300240: Roof Tile Block.026
+    2300242: Roof Tile Block.027
+    2300244: Roof Tile Block.028
+    2300246: Roof Tile Block.029
+    2300248: Roof Tile Block.030
+    2300250: Roof Tile Block.031
+    2300252: Roof Tile Block.032
+    2300254: Roof Tile Block.033
+    2300256: Roof Tile Block.034
+    2300258: Roof Tile Block.035
+    2300260: Roof Tile Block.036
+    2300262: Roof Tile Block.037
+    2300264: Roof Tile Block.038
+    2300266: Roof Tile Block.039
+    2300268: Roof Tile Block.040
+    2300270: Roof Tile Block.041
+    2300272: Roof Tile Block.042
+    2300274: Roof Tile Block.043
+    2300276: Roof Tile Block.044
+    2300278: Roof Tile Block.045
+    2300280: Roof Tile Block.046
+    2300282: Roof Tile Block.047
+    2300284: Roof Tile Block.048
+    2300286: Roof Tile Block.049
+    2300288: Roof Tile Block.050
+    2300290: Roof Tile Block.051
+    2300292: Roof Tile Block.052
+    2300294: Roof Tile Block.053
+    2300296: Roof Tile Block.054
+    2300298: Roof Tile Block.055
+    2300300: Roof Tile Block.056
+    2300302: Roof Tile Block.057
+    2300304: Roof Tile Block.058
+    2300306: Roof Tile Block.059
+    2300308: Roof Tile Block.060
+    2300310: Roof Tile Block.061
+    2300312: Roof Tile Block.062
+    2300314: Roof Tile Block.063
+    2300316: Roof Tile Block.064
+    2300318: Roof Tile Block.065
+    2300320: Roof Tile Block.066
+    2300322: Roof Tile Block.067
+    2300324: Roof Tile Block.068
+    2300326: Roof Tile Block.069
+    2300328: Roof Tile Block.070
+    2300330: Roof Tile Block.071
+    2300332: Roof Tile Block.072
+    2300334: Roof Tile Block.073
+    2300336: Roof Tile Block.074
+    2300338: Roof Tile Block.075
+    2300340: Roof Tile Block.076
+    2300342: Roof Tile Block.077
+    2300344: Roof Tile Block.078
+    2300346: Roof Tile Block.079
+    2300348: Roof Tile Block.080
+    2300350: Roof Tile Block.081
+    2300352: Roof Tile Block.082
+    2300354: Roof Tile Block.083
+    2300356: Roof Tile Block.084
+    2300358: Roof Tile Block.085
+    2300360: Roof Tile Block.086
+    2300362: Roof Tile Block.087
+    2300364: Roof Tile Block.088
+    2300366: Roof Tile Block.089
+    2300368: Roof Tile Block.090
+    2300370: Roof Tile Block.091
+    2300372: Roof Tile Block.092
+    2300374: Roof Tile Block.093
+    2300376: Roof Tile Block.094
+    2300378: Roof Tile Block.095
+    2300380: Roof Tile Block.096
+    2300382: Roof Tile Block.097
+    2300384: Roof Tile Block.098
+    2300386: Roof Tile Block.099
+    2300388: Roof Tile Block.100
+    2300390: Roof Tile Block.101
+    2300392: Roof Tile Block.102
+    2300394: Roof Tile Block.103
+    2300396: Roof Tile Block.104
+    2300398: Roof Tile Block.105
+    2300400: Roof Tile Block.106
+    2300402: Roof Tile Block.107
+    2300404: Roof Tile Block.108
+    2300406: Roof Tile Block.109
+    2300408: Roof Tile Block.110
+    2300410: Roof Tile Block.111
+    2300412: Roof Tile Block.112
+    2300414: Roof Tile Block.113
+    2300416: Roof Tile Block.114
+    2300418: Roof Tile Block.115
+    2300420: Roof Tile Block.116
+    2300422: Roof Tile Block.117
+    2300424: Roof Tile Block.118
+    2300426: Roof Tile Block.119
+    2300428: Roof Tile Block.120
+    2300430: Roof Tile Block.121
+    2300432: Roof Tile Block.122
+    2300434: Roof Tile Block.123
+    2300436: Roof Tile Block.124
+    2300438: Roof Tile Block.125
+    2300440: Roof Tile Block.126
+    2300442: Roof Tile Block.127
+    2300444: Roof Tile Block.128
+    2300446: Roof Tile Block.129
+    2300448: Roof Tile Block.130
+    2300450: Roof Tile Block.131
+    2300452: Roof Tile Block.132
+    2300454: Roof Tile Block.133
+    2300456: Roof Tile Block.134
+    2300458: Roof Tile Block.135
+    2300460: Roof Tile Block.136
+    2300462: Roof Tile Block.137
+    2300464: Roof Tile Block.138
+    2300466: Roof Tile Block.139
+    2300468: Roof Tile Block.140
+    2300470: Roof Tile Block.141
+    2300472: Roof Tile Block.142
+    2300474: Roof Tile Block.143
+    2300476: Roof Tile Block.144
+    2300478: Roof Tile Block.145
+    2300480: Roof Tile Block.146
+    2300482: Roof Tile Block.147
+    2300484: Roof Tile Block.148
+    2300486: Roof Tile Block.149
+    2300488: Roof Tile Block.150
+    2300490: Roof Tile Block.151
+    2300492: Roof Tile Block.152
+    2300494: Roof Tile Block.153
+    2300496: Roof Tile Block.154
+    2300498: Roof Tile Block.155
+    2300500: Roof Tile Block.156
+    2300502: Roof Tile Block.157
+    2300504: Roof Tile Block.158
+    2300506: Roof Tile Block.159
+    2300508: Roof Tile Block.160
+    2300510: Roof Tile Block.161
+    2300512: Roof Tile Block.162
+    2300514: Roof Tile Block.163
+    2300516: Roof Tile Block.164
+    2300518: Roof Tile Block.165
+    2300520: Roof Tile Block.166
+    2300522: Roof Tile Block.167
+    2300524: Roof Tile Block.168
+    2300526: Roof Tile Block.169
+    2300528: Roof Tile Block.170
+    2300530: Roof Tile Block.171
+    2300532: Roof Tile Block.172
+    2300534: Roof Tile Block.173
+    2300536: Roof Tile Block.174
+    2300538: Roof Tile Block.175
+    2300540: Roof Tile Block.176
+    2300542: Roof Tile Block.177
+    2300544: Roof Tile Block.178
+    2300546: Roof Tile Block.179
+    2300548: Roof Tile Block.180
+    2300550: Roof Tile Block.181
+    2300552: Roof Tile Block.182
+    2300554: Roof Tile Block.183
+    2300556: Roof Tile Block.184
+    2300558: Roof Tile Block.185
+    2300560: Roof Tile Block.186
+    2300562: Roof Tile Block.187
+    2300564: Roof Tile Block.188
+    2300566: Roof Tile Block.189
+    2300568: Roof Tile Block.190
+    2300570: Roof Tile Block.191
+    2300572: Roof Tile Block.192
+    2300574: Roof Tile Block.193
+    2300576: Roof Tile Block.194
+    2300578: Roof Tile Block.195
+    2300580: Roof Tile Block.196
+    2300582: Roof Tile Block.197
+    2300584: Roof Tile Block.198
+    2300586: Roof Tile Block.199
+    2300588: Roof Tile Block.200
+    2300590: Roof Tile Block.201
+    2300592: Roof Tile Block.202
+    2300594: Roof Tile Block.203
+    2300596: Roof Tile Block.204
+    2300598: Roof Tile Block.205
+    2300600: Roof Tile Block.206
+    2300602: Roof Tile Block.207
+    2300604: Roof Tile Block.208
+    2300606: Roof Tile Block.209
+    2300608: Roof Tile Block.210
+    2300610: Roof Tile Block.211
+    2300612: Roof Tile Block.212
+    2300614: Roof Tile Block.213
+    2300616: Roof Tile Block.214
+    2300618: Roof Tile Block.215
+    2300620: Roof Tile Block.216
+    2300622: Roof Tile Block.217
+    2300624: Roof Tile Block.218
+    2300626: Roof Tile Block.219
+    2300628: Roof Tile Block.220
+    2300630: Roof Tile Block.221
+    2300632: Roof Tile Block.222
+    2300634: Roof Tile Block.223
+    2300636: Roof Tile Block.224
+    3300000: Board.027
+    3300002: Board.028
+    3300004: Board.029
+    3300006: Board.030
+    3300008: Board.032
+    3300010: Board.033
+    3300012: Board.034
+    3300014: Board.035
+    3300016: Board.036
+    3300018: Board.038
+    3300020: Board.039
+    3300022: Board.040
+    3300024: Board.041
+    3300026: Board.042
+    3300028: Board.043
+    3300030: Board.044
+    3300032: Board.045
+    3300034: Board.046
+    3300036: Board.047
+    3300038: Board.048
+    3300040: Board.049
+    3300042: Board.050
+    3300044: Board.051
+    3300046: Board.052
+    3300048: Board.053
+    3300050: Board.054
+    3300052: Board.055
+    3300054: Board.056
+    3300056: Board.057
+    3300058: Board.058
+    3300060: Board.059
+    3300062: Board.060
+    3300064: Board.061
+    3300066: Board.062
+    3300068: Board.063
+    3300070: Board.064
+    3300072: Board.065
+    3300074: Board.066
+    3300076: Board.067
+    3300078: Board.068
+    3300080: Board.069
+    3300082: Board.070
+    3300084: Board.071
+    3300086: Board.072
+    3300088: Board.073
+    3300090: Board.074
+    3300092: Board.075
+    3300094: Board.076
+    3300096: Board.077
+    3300098: Board.078
+    3300100: Board.079
+    3300102: Board.081
+    3300104: Board.083
+    3300106: Board.084
+    3300108: Board.086
+    3300110: Board.089
+    3300112: Board.090
+    3300114: Board.091
+    3300116: Board.092
+    3300118: Board.093
+    3300120: Board.094
+    3300122: Board.095
+    3300124: Board.096
+    3300126: Board.097
+    3300128: Board.098
+    3300130: Board.099
+    3300132: Board.100
+    3300134: Board.101
+    3300136: Board.102
+    3300138: Board.103
+    3300140: Board.104
+    3300142: Board.105
+    3300144: Board.106
+    3300146: Board.107
+    3300148: Cube.008
+    3300150: Cube.009
+    3300152: Cube.010
+    3300154: Cube.011
+    3300156: Cube.012
+    3300158: Cube.013
+    3300160: Cube.014
+    3300162: Cube.015
+    3300164: Cube.016
+    3300166: Cube.017
+    3300168: Cube.018
+    3300170: Cube.019
+    3300172: Cube.020
+    3300174: Cube.021
+    3300176: Cube.022
+    3300178: Cube.023
+    3300180: Cube.024
+    3300182: Cube.025
+    3300184: Cube.026
+    3300186: Cube.027
+    3300188: Cube.028
+    3300190: Cube.029
+    3300192: Cube.030
+    3300194: Roof Tile Block.003
+    3300196: Roof Tile Block.004
+    3300198: Roof Tile Block.005
+    3300200: Roof Tile Block.006
+    3300202: Roof Tile Block.007
+    3300204: Roof Tile Block.008
+    3300206: Roof Tile Block.009
+    3300208: Roof Tile Block.010
+    3300210: Roof Tile Block.011
+    3300212: Roof Tile Block.012
+    3300214: Roof Tile Block.013
+    3300216: Roof Tile Block.014
+    3300218: Roof Tile Block.015
+    3300220: Roof Tile Block.016
+    3300222: Roof Tile Block.017
+    3300224: Roof Tile Block.018
+    3300226: Roof Tile Block.019
+    3300228: Roof Tile Block.020
+    3300230: Roof Tile Block.021
+    3300232: Roof Tile Block.022
+    3300234: Roof Tile Block.023
+    3300236: Roof Tile Block.024
+    3300238: Roof Tile Block.025
+    3300240: Roof Tile Block.026
+    3300242: Roof Tile Block.027
+    3300244: Roof Tile Block.028
+    3300246: Roof Tile Block.029
+    3300248: Roof Tile Block.030
+    3300250: Roof Tile Block.031
+    3300252: Roof Tile Block.032
+    3300254: Roof Tile Block.033
+    3300256: Roof Tile Block.034
+    3300258: Roof Tile Block.035
+    3300260: Roof Tile Block.036
+    3300262: Roof Tile Block.037
+    3300264: Roof Tile Block.038
+    3300266: Roof Tile Block.039
+    3300268: Roof Tile Block.040
+    3300270: Roof Tile Block.041
+    3300272: Roof Tile Block.042
+    3300274: Roof Tile Block.043
+    3300276: Roof Tile Block.044
+    3300278: Roof Tile Block.045
+    3300280: Roof Tile Block.046
+    3300282: Roof Tile Block.047
+    3300284: Roof Tile Block.048
+    3300286: Roof Tile Block.049
+    3300288: Roof Tile Block.050
+    3300290: Roof Tile Block.051
+    3300292: Roof Tile Block.052
+    3300294: Roof Tile Block.053
+    3300296: Roof Tile Block.054
+    3300298: Roof Tile Block.055
+    3300300: Roof Tile Block.056
+    3300302: Roof Tile Block.057
+    3300304: Roof Tile Block.058
+    3300306: Roof Tile Block.059
+    3300308: Roof Tile Block.060
+    3300310: Roof Tile Block.061
+    3300312: Roof Tile Block.062
+    3300314: Roof Tile Block.063
+    3300316: Roof Tile Block.064
+    3300318: Roof Tile Block.065
+    3300320: Roof Tile Block.066
+    3300322: Roof Tile Block.067
+    3300324: Roof Tile Block.068
+    3300326: Roof Tile Block.069
+    3300328: Roof Tile Block.070
+    3300330: Roof Tile Block.071
+    3300332: Roof Tile Block.072
+    3300334: Roof Tile Block.073
+    3300336: Roof Tile Block.074
+    3300338: Roof Tile Block.075
+    3300340: Roof Tile Block.076
+    3300342: Roof Tile Block.077
+    3300344: Roof Tile Block.078
+    3300346: Roof Tile Block.079
+    3300348: Roof Tile Block.080
+    3300350: Roof Tile Block.081
+    3300352: Roof Tile Block.082
+    3300354: Roof Tile Block.083
+    3300356: Roof Tile Block.084
+    3300358: Roof Tile Block.085
+    3300360: Roof Tile Block.086
+    3300362: Roof Tile Block.087
+    3300364: Roof Tile Block.088
+    3300366: Roof Tile Block.089
+    3300368: Roof Tile Block.090
+    3300370: Roof Tile Block.091
+    3300372: Roof Tile Block.092
+    3300374: Roof Tile Block.093
+    3300376: Roof Tile Block.094
+    3300378: Roof Tile Block.095
+    3300380: Roof Tile Block.096
+    3300382: Roof Tile Block.097
+    3300384: Roof Tile Block.098
+    3300386: Roof Tile Block.099
+    3300388: Roof Tile Block.100
+    3300390: Roof Tile Block.101
+    3300392: Roof Tile Block.102
+    3300394: Roof Tile Block.103
+    3300396: Roof Tile Block.104
+    3300398: Roof Tile Block.105
+    3300400: Roof Tile Block.106
+    3300402: Roof Tile Block.107
+    3300404: Roof Tile Block.108
+    3300406: Roof Tile Block.109
+    3300408: Roof Tile Block.110
+    3300410: Roof Tile Block.111
+    3300412: Roof Tile Block.112
+    3300414: Roof Tile Block.113
+    3300416: Roof Tile Block.114
+    3300418: Roof Tile Block.115
+    3300420: Roof Tile Block.116
+    3300422: Roof Tile Block.117
+    3300424: Roof Tile Block.118
+    3300426: Roof Tile Block.119
+    3300428: Roof Tile Block.120
+    3300430: Roof Tile Block.121
+    3300432: Roof Tile Block.122
+    3300434: Roof Tile Block.123
+    3300436: Roof Tile Block.124
+    3300438: Roof Tile Block.125
+    3300440: Roof Tile Block.126
+    3300442: Roof Tile Block.127
+    3300444: Roof Tile Block.128
+    3300446: Roof Tile Block.129
+    3300448: Roof Tile Block.130
+    3300450: Roof Tile Block.131
+    3300452: Roof Tile Block.132
+    3300454: Roof Tile Block.133
+    3300456: Roof Tile Block.134
+    3300458: Roof Tile Block.135
+    3300460: Roof Tile Block.136
+    3300462: Roof Tile Block.137
+    3300464: Roof Tile Block.138
+    3300466: Roof Tile Block.139
+    3300468: Roof Tile Block.140
+    3300470: Roof Tile Block.141
+    3300472: Roof Tile Block.142
+    3300474: Roof Tile Block.143
+    3300476: Roof Tile Block.144
+    3300478: Roof Tile Block.145
+    3300480: Roof Tile Block.146
+    3300482: Roof Tile Block.147
+    3300484: Roof Tile Block.148
+    3300486: Roof Tile Block.149
+    3300488: Roof Tile Block.150
+    3300490: Roof Tile Block.151
+    3300492: Roof Tile Block.152
+    3300494: Roof Tile Block.153
+    3300496: Roof Tile Block.154
+    3300498: Roof Tile Block.155
+    3300500: Roof Tile Block.156
+    3300502: Roof Tile Block.157
+    3300504: Roof Tile Block.158
+    3300506: Roof Tile Block.159
+    3300508: Roof Tile Block.160
+    3300510: Roof Tile Block.161
+    3300512: Roof Tile Block.162
+    3300514: Roof Tile Block.163
+    3300516: Roof Tile Block.164
+    3300518: Roof Tile Block.165
+    3300520: Roof Tile Block.166
+    3300522: Roof Tile Block.167
+    3300524: Roof Tile Block.168
+    3300526: Roof Tile Block.169
+    3300528: Roof Tile Block.170
+    3300530: Roof Tile Block.171
+    3300532: Roof Tile Block.172
+    3300534: Roof Tile Block.173
+    3300536: Roof Tile Block.174
+    3300538: Roof Tile Block.175
+    3300540: Roof Tile Block.176
+    3300542: Roof Tile Block.177
+    3300544: Roof Tile Block.178
+    3300546: Roof Tile Block.179
+    3300548: Roof Tile Block.180
+    3300550: Roof Tile Block.181
+    3300552: Roof Tile Block.182
+    3300554: Roof Tile Block.183
+    3300556: Roof Tile Block.184
+    3300558: Roof Tile Block.185
+    3300560: Roof Tile Block.186
+    3300562: Roof Tile Block.187
+    3300564: Roof Tile Block.188
+    3300566: Roof Tile Block.189
+    3300568: Roof Tile Block.190
+    3300570: Roof Tile Block.191
+    3300572: Roof Tile Block.192
+    3300574: Roof Tile Block.193
+    3300576: Roof Tile Block.194
+    3300578: Roof Tile Block.195
+    3300580: Roof Tile Block.196
+    3300582: Roof Tile Block.197
+    3300584: Roof Tile Block.198
+    3300586: Roof Tile Block.199
+    3300588: Roof Tile Block.200
+    3300590: Roof Tile Block.201
+    3300592: Roof Tile Block.202
+    3300594: Roof Tile Block.203
+    3300596: Roof Tile Block.204
+    3300598: Roof Tile Block.205
+    3300600: Roof Tile Block.206
+    3300602: Roof Tile Block.207
+    3300604: Roof Tile Block.208
+    3300606: Roof Tile Block.209
+    3300608: Roof Tile Block.210
+    3300610: Roof Tile Block.211
+    3300612: Roof Tile Block.212
+    3300614: Roof Tile Block.213
+    3300616: Roof Tile Block.214
+    3300618: Roof Tile Block.215
+    3300620: Roof Tile Block.216
+    3300622: Roof Tile Block.217
+    3300624: Roof Tile Block.218
+    3300626: Roof Tile Block.219
+    3300628: Roof Tile Block.220
+    3300630: Roof Tile Block.221
+    3300632: Roof Tile Block.222
+    3300634: Roof Tile Block.223
+    3300636: Roof Tile Block.224
+    4300000: Board.107
+    4300002: Board.106
+    4300004: Board.105
+    4300006: Board.104
+    4300008: Board.103
+    4300010: Cube.030
+    4300012: Cube.029
+    4300014: Cube.028
+    4300016: Cube.027
+    4300018: Cube.026
+    4300020: Cube.025
+    4300022: Cube.024
+    4300024: Board.102
+    4300026: Board.101
+    4300028: Board.100
+    4300030: Board.099
+    4300032: Board.098
+    4300034: Board.097
+    4300036: Board.096
+    4300038: Board.095
+    4300040: Board.094
+    4300042: Board.093
+    4300044: Board.092
+    4300046: Board.091
+    4300048: Board.090
+    4300050: Board.089
+    4300052: Board.086
+    4300054: Board.084
+    4300056: Board.083
+    4300058: Board.081
+    4300060: Cube.023
+    4300062: Cube.022
+    4300064: Cube.021
+    4300066: Cube.020
+    4300068: Cube.019
+    4300070: Cube.018
+    4300072: Cube.017
+    4300074: Cube.016
+    4300076: Board.079
+    4300078: Board.078
+    4300080: Board.077
+    4300082: Board.076
+    4300084: Board.075
+    4300086: Board.074
+    4300088: Board.073
+    4300090: Board.072
+    4300092: Board.071
+    4300094: Board.070
+    4300096: Board.069
+    4300098: Board.068
+    4300100: Board.067
+    4300102: Board.066
+    4300104: Board.065
+    4300106: Board.064
+    4300108: Board.063
+    4300110: Board.062
+    4300112: Board.061
+    4300114: Board.060
+    4300116: Board.059
+    4300118: Board.058
+    4300120: Board.057
+    4300122: Cube.015
+    4300124: Cube.014
+    4300126: Roof Tile Block.224
+    4300128: Roof Tile Block.223
+    4300130: Roof Tile Block.222
+    4300132: Roof Tile Block.221
+    4300134: Roof Tile Block.220
+    4300136: Roof Tile Block.219
+    4300138: Roof Tile Block.218
+    4300140: Roof Tile Block.217
+    4300142: Roof Tile Block.216
+    4300144: Roof Tile Block.215
+    4300146: Roof Tile Block.214
+    4300148: Roof Tile Block.213
+    4300150: Roof Tile Block.212
+    4300152: Roof Tile Block.211
+    4300154: Roof Tile Block.210
+    4300156: Roof Tile Block.209
+    4300158: Roof Tile Block.208
+    4300160: Roof Tile Block.207
+    4300162: Roof Tile Block.206
+    4300164: Roof Tile Block.205
+    4300166: Roof Tile Block.204
+    4300168: Roof Tile Block.203
+    4300170: Roof Tile Block.202
+    4300172: Roof Tile Block.201
+    4300174: Roof Tile Block.200
+    4300176: Roof Tile Block.199
+    4300178: Roof Tile Block.198
+    4300180: Roof Tile Block.197
+    4300182: Roof Tile Block.196
+    4300184: Roof Tile Block.195
+    4300186: Roof Tile Block.194
+    4300188: Roof Tile Block.193
+    4300190: Roof Tile Block.192
+    4300192: Roof Tile Block.191
+    4300194: Roof Tile Block.190
+    4300196: Roof Tile Block.189
+    4300198: Roof Tile Block.188
+    4300200: Roof Tile Block.187
+    4300202: Roof Tile Block.186
+    4300204: Roof Tile Block.185
+    4300206: Roof Tile Block.184
+    4300208: Roof Tile Block.183
+    4300210: Roof Tile Block.182
+    4300212: Roof Tile Block.181
+    4300214: Roof Tile Block.180
+    4300216: Roof Tile Block.179
+    4300218: Roof Tile Block.178
+    4300220: Roof Tile Block.177
+    4300222: Roof Tile Block.176
+    4300224: Roof Tile Block.175
+    4300226: Roof Tile Block.174
+    4300228: Roof Tile Block.173
+    4300230: Roof Tile Block.172
+    4300232: Roof Tile Block.171
+    4300234: Roof Tile Block.170
+    4300236: Roof Tile Block.169
+    4300238: Roof Tile Block.168
+    4300240: Roof Tile Block.167
+    4300242: Roof Tile Block.166
+    4300244: Roof Tile Block.165
+    4300246: Roof Tile Block.164
+    4300248: Roof Tile Block.163
+    4300250: Roof Tile Block.162
+    4300252: Roof Tile Block.161
+    4300254: Roof Tile Block.160
+    4300256: Roof Tile Block.159
+    4300258: Roof Tile Block.158
+    4300260: Roof Tile Block.157
+    4300262: Roof Tile Block.156
+    4300264: Roof Tile Block.155
+    4300266: Roof Tile Block.154
+    4300268: Roof Tile Block.153
+    4300270: Roof Tile Block.152
+    4300272: Roof Tile Block.151
+    4300274: Roof Tile Block.150
+    4300276: Roof Tile Block.149
+    4300278: Roof Tile Block.148
+    4300280: Roof Tile Block.147
+    4300282: Roof Tile Block.146
+    4300284: Roof Tile Block.145
+    4300286: Roof Tile Block.144
+    4300288: Roof Tile Block.143
+    4300290: Roof Tile Block.142
+    4300292: Roof Tile Block.141
+    4300294: Roof Tile Block.140
+    4300296: Roof Tile Block.139
+    4300298: Roof Tile Block.138
+    4300300: Roof Tile Block.137
+    4300302: Roof Tile Block.136
+    4300304: Roof Tile Block.135
+    4300306: Roof Tile Block.134
+    4300308: Roof Tile Block.133
+    4300310: Roof Tile Block.132
+    4300312: Roof Tile Block.131
+    4300314: Roof Tile Block.130
+    4300316: Roof Tile Block.129
+    4300318: Roof Tile Block.128
+    4300320: Roof Tile Block.127
+    4300322: Roof Tile Block.126
+    4300324: Roof Tile Block.125
+    4300326: Roof Tile Block.124
+    4300328: Roof Tile Block.123
+    4300330: Roof Tile Block.122
+    4300332: Roof Tile Block.121
+    4300334: Roof Tile Block.120
+    4300336: Roof Tile Block.119
+    4300338: Roof Tile Block.118
+    4300340: Roof Tile Block.117
+    4300342: Roof Tile Block.116
+    4300344: Roof Tile Block.115
+    4300346: Roof Tile Block.114
+    4300348: Roof Tile Block.113
+    4300350: Roof Tile Block.112
+    4300352: Roof Tile Block.111
+    4300354: Roof Tile Block.110
+    4300356: Roof Tile Block.109
+    4300358: Roof Tile Block.108
+    4300360: Roof Tile Block.107
+    4300362: Roof Tile Block.106
+    4300364: Roof Tile Block.105
+    4300366: Roof Tile Block.104
+    4300368: Roof Tile Block.103
+    4300370: Roof Tile Block.102
+    4300372: Roof Tile Block.101
+    4300374: Roof Tile Block.100
+    4300376: Roof Tile Block.099
+    4300378: Roof Tile Block.098
+    4300380: Roof Tile Block.097
+    4300382: Roof Tile Block.096
+    4300384: Roof Tile Block.095
+    4300386: Roof Tile Block.094
+    4300388: Roof Tile Block.093
+    4300390: Roof Tile Block.092
+    4300392: Roof Tile Block.091
+    4300394: Roof Tile Block.090
+    4300396: Roof Tile Block.089
+    4300398: Roof Tile Block.088
+    4300400: Roof Tile Block.087
+    4300402: Roof Tile Block.086
+    4300404: Roof Tile Block.085
+    4300406: Roof Tile Block.084
+    4300408: Roof Tile Block.083
+    4300410: Roof Tile Block.082
+    4300412: Roof Tile Block.081
+    4300414: Roof Tile Block.080
+    4300416: Roof Tile Block.079
+    4300418: Roof Tile Block.078
+    4300420: Roof Tile Block.077
+    4300422: Roof Tile Block.076
+    4300424: Roof Tile Block.075
+    4300426: Roof Tile Block.074
+    4300428: Roof Tile Block.073
+    4300430: Roof Tile Block.072
+    4300432: Roof Tile Block.071
+    4300434: Roof Tile Block.070
+    4300436: Roof Tile Block.069
+    4300438: Roof Tile Block.068
+    4300440: Roof Tile Block.067
+    4300442: Roof Tile Block.066
+    4300444: Roof Tile Block.065
+    4300446: Roof Tile Block.064
+    4300448: Roof Tile Block.063
+    4300450: Roof Tile Block.062
+    4300452: Roof Tile Block.061
+    4300454: Roof Tile Block.060
+    4300456: Roof Tile Block.059
+    4300458: Roof Tile Block.058
+    4300460: Roof Tile Block.057
+    4300462: Roof Tile Block.056
+    4300464: Roof Tile Block.055
+    4300466: Roof Tile Block.054
+    4300468: Roof Tile Block.053
+    4300470: Roof Tile Block.052
+    4300472: Roof Tile Block.051
+    4300474: Roof Tile Block.050
+    4300476: Roof Tile Block.049
+    4300478: Roof Tile Block.048
+    4300480: Roof Tile Block.047
+    4300482: Roof Tile Block.046
+    4300484: Roof Tile Block.045
+    4300486: Roof Tile Block.044
+    4300488: Roof Tile Block.043
+    4300490: Roof Tile Block.042
+    4300492: Roof Tile Block.041
+    4300494: Roof Tile Block.040
+    4300496: Roof Tile Block.039
+    4300498: Roof Tile Block.038
+    4300500: Roof Tile Block.037
+    4300502: Roof Tile Block.036
+    4300504: Roof Tile Block.035
+    4300506: Roof Tile Block.034
+    4300508: Roof Tile Block.033
+    4300510: Roof Tile Block.032
+    4300512: Roof Tile Block.031
+    4300514: Roof Tile Block.030
+    4300516: Roof Tile Block.029
+    4300518: Roof Tile Block.028
+    4300520: Roof Tile Block.027
+    4300522: Roof Tile Block.026
+    4300524: Roof Tile Block.025
+    4300526: Roof Tile Block.024
+    4300528: Roof Tile Block.023
+    4300530: Roof Tile Block.022
+    4300532: Roof Tile Block.021
+    4300534: Roof Tile Block.020
+    4300536: Roof Tile Block.019
+    4300538: Roof Tile Block.018
+    4300540: Roof Tile Block.017
+    4300542: Roof Tile Block.016
+    4300544: Roof Tile Block.015
+    4300546: Roof Tile Block.014
+    4300548: Roof Tile Block.013
+    4300550: Roof Tile Block.012
+    4300552: Roof Tile Block.011
+    4300554: Roof Tile Block.010
+    4300556: Roof Tile Block.009
+    4300558: Roof Tile Block.008
+    4300560: Roof Tile Block.007
+    4300562: Roof Tile Block.006
+    4300564: Roof Tile Block.005
+    4300566: Cube.013
+    4300568: Roof Tile Block.004
+    4300570: Cube.012
+    4300572: Board.056
+    4300574: Board.055
+    4300576: Board.054
+    4300578: Board.053
+    4300580: Board.052
+    4300582: Board.051
+    4300584: Board.050
+    4300586: Board.049
+    4300588: Board.048
+    4300590: Board.047
+    4300592: Board.046
+    4300594: Board.045
+    4300596: Board.044
+    4300598: Board.043
+    4300600: Board.042
+    4300602: Board.041
+    4300604: Board.040
+    4300606: Board.039
+    4300608: Board.038
+    4300610: Board.036
+    4300612: Board.035
+    4300614: Board.034
+    4300616: Board.033
+    4300618: Board.032
+    4300620: Board.030
+    4300622: Board.029
+    4300624: Board.028
+    4300626: Board.027
+    4300628: Roof Tile Block.003
+    4300630: Cube.011
+    4300632: Cube.010
+    4300634: Cube.009
+    4300636: Cube.008
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: a436d5d00aa42664eb529629f87a9f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Shingle
+    second: {fileID: 2100000, guid: 5532a84848e1e224eba2fcc2ce5f90fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

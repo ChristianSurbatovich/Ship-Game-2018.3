@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 47aaf01836b0d3b4dbf77d07e176c710
+timeCreated: 1522493073
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.1865
+    100002: Cube.1866
+    100004: Cube.869
+    100006: Cube.870
+    100008: Cube.871
+    100010: Cube.872
+    100012: Cube.873
+    100014: Cube.874
+    100016: Cube.875
+    100018: Cube.876
+    100020: Cube.877
+    100022: Cube.878
+    100024: Cube.879
+    100026: Cube.880
+    100028: Cube.881
+    100030: Cube.882
+    100032: Cube.883
+    100034: Cube.884
+    100036: Cube.885
+    100038: Cube.886
+    100040: Cube.887
+    100042: Cube.888
+    100044: Cube.889
+    100046: Cube.890
+    100048: Cube.891
+    100050: Cube.892
+    100052: Cube.893
+    100054: Cube.894
+    100056: Cylinder.063
+    100058: //RootNode
+    400000: Cube.1865
+    400002: Cube.1866
+    400004: Cube.869
+    400006: Cube.870
+    400008: Cube.871
+    400010: Cube.872
+    400012: Cube.873
+    400014: Cube.874
+    400016: Cube.875
+    400018: Cube.876
+    400020: Cube.877
+    400022: Cube.878
+    400024: Cube.879
+    400026: Cube.880
+    400028: Cube.881
+    400030: Cube.882
+    400032: Cube.883
+    400034: Cube.884
+    400036: Cube.885
+    400038: Cube.886
+    400040: Cube.887
+    400042: Cube.888
+    400044: Cube.889
+    400046: Cube.890
+    400048: Cube.891
+    400050: Cube.892
+    400052: Cube.893
+    400054: Cube.894
+    400056: Cylinder.063
+    400058: //RootNode
+    2100000: White Plaster
+    2300000: Cube.1865
+    2300002: Cube.1866
+    2300004: Cube.869
+    2300006: Cube.870
+    2300008: Cube.871
+    2300010: Cube.872
+    2300012: Cube.873
+    2300014: Cube.874
+    2300016: Cube.875
+    2300018: Cube.876
+    2300020: Cube.877
+    2300022: Cube.878
+    2300024: Cube.879
+    2300026: Cube.880
+    2300028: Cube.881
+    2300030: Cube.882
+    2300032: Cube.883
+    2300034: Cube.884
+    2300036: Cube.885
+    2300038: Cube.886
+    2300040: Cube.887
+    2300042: Cube.888
+    2300044: Cube.889
+    2300046: Cube.890
+    2300048: Cube.891
+    2300050: Cube.892
+    2300052: Cube.893
+    2300054: Cube.894
+    2300056: Cylinder.063
+    3300000: Cube.1865
+    3300002: Cube.1866
+    3300004: Cube.869
+    3300006: Cube.870
+    3300008: Cube.871
+    3300010: Cube.872
+    3300012: Cube.873
+    3300014: Cube.874
+    3300016: Cube.875
+    3300018: Cube.876
+    3300020: Cube.877
+    3300022: Cube.878
+    3300024: Cube.879
+    3300026: Cube.880
+    3300028: Cube.881
+    3300030: Cube.882
+    3300032: Cube.883
+    3300034: Cube.884
+    3300036: Cube.885
+    3300038: Cube.886
+    3300040: Cube.887
+    3300042: Cube.888
+    3300044: Cube.889
+    3300046: Cube.890
+    3300048: Cube.891
+    3300050: Cube.892
+    3300052: Cube.893
+    3300054: Cube.894
+    3300056: Cylinder.063
+    4300000: Cube.1866
+    4300002: Cube.1865
+    4300004: Cube.894
+    4300006: Cube.893
+    4300008: Cube.892
+    4300010: Cube.891
+    4300012: Cube.890
+    4300014: Cube.889
+    4300016: Cube.888
+    4300018: Cube.887
+    4300020: Cylinder.063
+    4300022: Cube.886
+    4300024: Cube.885
+    4300026: Cube.884
+    4300028: Cube.883
+    4300030: Cube.882
+    4300032: Cube.881
+    4300034: Cube.880
+    4300036: Cube.879
+    4300038: Cube.878
+    4300040: Cube.876
+    4300042: Cube.875
+    4300044: Cube.874
+    4300046: Cube.873
+    4300048: Cube.872
+    4300050: Cube.871
+    4300052: Cube.870
+    4300054: Cube.869
+    4300056: Cube.877
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Plaster
+    second: {fileID: 2100000, guid: 2d77501132cb3ab488494d005d67f676, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 5fde5e0833d7d7f45837bd9fc152b8a7
+timeCreated: 1523073868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BOTPORT_1
+    100002: BOTPORT_10
+    100004: BOTPORT_11
+    100006: BOTPORT_12
+    100008: BOTPORT_13
+    100010: BOTPORT_14
+    100012: BOTPORT_2
+    100014: BOTPORT_3
+    100016: BOTPORT_4
+    100018: BOTPORT_5
+    100020: BOTPORT_6
+    100022: BOTPORT_7
+    100024: BOTPORT_8
+    100026: BOTPORT_9
+    100028: RUDDER_1
+    100030: RUDDER_2
+    100032: //RootNode
+    100034: TOPPORT_1
+    100036: TOPPORT_2
+    100038: TOPPORT_3
+    100040: TOPPORT_4
+    400000: BOTPORT_1
+    400002: BOTPORT_10
+    400004: BOTPORT_11
+    400006: BOTPORT_12
+    400008: BOTPORT_13
+    400010: BOTPORT_14
+    400012: BOTPORT_2
+    400014: BOTPORT_3
+    400016: BOTPORT_4
+    400018: BOTPORT_5
+    400020: BOTPORT_6
+    400022: BOTPORT_7
+    400024: BOTPORT_8
+    400026: BOTPORT_9
+    400028: RUDDER_1
+    400030: RUDDER_2
+    400032: //RootNode
+    400034: TOPPORT_1
+    400036: TOPPORT_2
+    400038: TOPPORT_3
+    400040: TOPPORT_4
+    2100000: Dark Wood
+    2300000: BOTPORT_1
+    2300002: BOTPORT_10
+    2300004: BOTPORT_11
+    2300006: BOTPORT_12
+    2300008: BOTPORT_13
+    2300010: BOTPORT_14
+    2300012: BOTPORT_2
+    2300014: BOTPORT_3
+    2300016: BOTPORT_4
+    2300018: BOTPORT_5
+    2300020: BOTPORT_6
+    2300022: BOTPORT_7
+    2300024: BOTPORT_8
+    2300026: BOTPORT_9
+    2300028: RUDDER_1
+    2300030: RUDDER_2
+    2300032: TOPPORT_1
+    2300034: TOPPORT_2
+    2300036: TOPPORT_3
+    2300038: TOPPORT_4
+    3300000: BOTPORT_1
+    3300002: BOTPORT_10
+    3300004: BOTPORT_11
+    3300006: BOTPORT_12
+    3300008: BOTPORT_13
+    3300010: BOTPORT_14
+    3300012: BOTPORT_2
+    3300014: BOTPORT_3
+    3300016: BOTPORT_4
+    3300018: BOTPORT_5
+    3300020: BOTPORT_6
+    3300022: BOTPORT_7
+    3300024: BOTPORT_8
+    3300026: BOTPORT_9
+    3300028: RUDDER_1
+    3300030: RUDDER_2
+    3300032: TOPPORT_1
+    3300034: TOPPORT_2
+    3300036: TOPPORT_3
+    3300038: TOPPORT_4
+    4300000: RUDDER_2
+    4300002: RUDDER_1
+    4300004: TOPPORT_1
+    4300006: TOPPORT_2
+    4300008: TOPPORT_3
+    4300010: TOPPORT_4
+    4300012: BOTPORT_1
+    4300014: BOTPORT_2
+    4300016: BOTPORT_3
+    4300018: BOTPORT_4
+    4300020: BOTPORT_5
+    4300022: BOTPORT_6
+    4300024: BOTPORT_7
+    4300026: BOTPORT_8
+    4300028: BOTPORT_9
+    4300030: BOTPORT_10
+    4300032: BOTPORT_11
+    4300034: BOTPORT_12
+    4300036: BOTPORT_13
+    4300038: BOTPORT_14
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Wood
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

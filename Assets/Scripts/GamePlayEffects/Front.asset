@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f41c2119f1077644a2a1e369e9edad5, type: 3}
+  m_Name: Front
+  m_EditorClassIdentifier: 
+  seaIndex: 0
+  minRate: 1
+  maxRate: 1.25
+  minSpeed: 8
+  maxSpeed: 12
+  startColor: {r: 0.5, g: 0, b: 0, a: 0.5019608}
+  rateSpeedDampen: 15
+  forceSpeedDampen: 15
+  strengthSpeedDampen: 20
+  rateSpeedSplashMultiplier: 3
+  rateWaveSplashMultiplier: 350
+  rateDistanceSplashMultiplier: 20
+  forceSpeedMultiplier: 0.025
+  forceWaveMultiplier: 0.015
+  forceDistanceMultiplier: 0.015
+  strengthSpeedMultiplier: 0.1
+  strengthWaveMultiplier: 0.1
+  strengthDistanceMultiplier: 0.05

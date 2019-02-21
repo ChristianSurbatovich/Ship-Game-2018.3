@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 174d285febb097248be98b265920d307
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chapel_1_1_1
+    100004: Chapel_1_1_2
+    100006: Chapel_1_2_1
+    100008: Chapel_1_2_2
+    100010: Chapel_2_1_1
+    100012: Chapel_2_1_2
+    100014: Chapel_2_2_1
+    100016: Chapel_2_2_2
+    100018: Chapel_3_1_1
+    100020: Chapel_3_1_2
+    100022: Chapel_3_2_1
+    100024: Chapel_3_2_2
+    100026: Chapel_4_1_1
+    100028: Chapel_4_1_2
+    100030: Chapel_4_2_1
+    100032: Chapel_4_2_2
+    100034: Chapel_5_1_1
+    100036: Chapel_5_1_2
+    100038: Chapel_5_2_1
+    100040: Chapel_5_2_2
+    100042: Chapel_6_1_1
+    100044: Chapel_6_1_2
+    100046: Chapel_6_2_1
+    100048: Chapel_6_2_2
+    100050: Chapel_7_1_1
+    100052: Chapel_7_1_2
+    100054: Chapel_7_2_1
+    100056: Chapel_7_2_2
+    400000: //RootNode
+    400002: Chapel_1_1_1
+    400004: Chapel_1_1_2
+    400006: Chapel_1_2_1
+    400008: Chapel_1_2_2
+    400010: Chapel_2_1_1
+    400012: Chapel_2_1_2
+    400014: Chapel_2_2_1
+    400016: Chapel_2_2_2
+    400018: Chapel_3_1_1
+    400020: Chapel_3_1_2
+    400022: Chapel_3_2_1
+    400024: Chapel_3_2_2
+    400026: Chapel_4_1_1
+    400028: Chapel_4_1_2
+    400030: Chapel_4_2_1
+    400032: Chapel_4_2_2
+    400034: Chapel_5_1_1
+    400036: Chapel_5_1_2
+    400038: Chapel_5_2_1
+    400040: Chapel_5_2_2
+    400042: Chapel_6_1_1
+    400044: Chapel_6_1_2
+    400046: Chapel_6_2_1
+    400048: Chapel_6_2_2
+    400050: Chapel_7_1_1
+    400052: Chapel_7_1_2
+    400054: Chapel_7_2_1
+    400056: Chapel_7_2_2
+    2100000: Roof Tile
+    2100002: Charred Wood
+    2100004: White Plaster
+    2100006: Stone
+    2100008: Gold
+    2100010: Stained Glass Green
+    2100012: Stained Glass Blue
+    2100014: Stained Glass Red
+    2100016: Stained Glass White
+    2100018: Stain Glass Brown
+    2300000: Chapel_1_1_1
+    2300002: Chapel_1_1_2
+    2300004: Chapel_1_2_1
+    2300006: Chapel_1_2_2
+    2300008: Chapel_2_1_1
+    2300010: Chapel_2_1_2
+    2300012: Chapel_2_2_1
+    2300014: Chapel_2_2_2
+    2300016: Chapel_3_1_1
+    2300018: Chapel_3_1_2
+    2300020: Chapel_3_2_1
+    2300022: Chapel_3_2_2
+    2300024: Chapel_4_1_1
+    2300026: Chapel_4_1_2
+    2300028: Chapel_4_2_1
+    2300030: Chapel_4_2_2
+    2300032: Chapel_5_1_1
+    2300034: Chapel_5_1_2
+    2300036: Chapel_5_2_1
+    2300038: Chapel_5_2_2
+    2300040: Chapel_6_1_1
+    2300042: Chapel_6_1_2
+    2300044: Chapel_6_2_1
+    2300046: Chapel_6_2_2
+    2300048: Chapel_7_1_1
+    2300050: Chapel_7_1_2
+    2300052: Chapel_7_2_1
+    2300054: Chapel_7_2_2
+    3300000: Chapel_1_1_1
+    3300002: Chapel_1_1_2
+    3300004: Chapel_1_2_1
+    3300006: Chapel_1_2_2
+    3300008: Chapel_2_1_1
+    3300010: Chapel_2_1_2
+    3300012: Chapel_2_2_1
+    3300014: Chapel_2_2_2
+    3300016: Chapel_3_1_1
+    3300018: Chapel_3_1_2
+    3300020: Chapel_3_2_1
+    3300022: Chapel_3_2_2
+    3300024: Chapel_4_1_1
+    3300026: Chapel_4_1_2
+    3300028: Chapel_4_2_1
+    3300030: Chapel_4_2_2
+    3300032: Chapel_5_1_1
+    3300034: Chapel_5_1_2
+    3300036: Chapel_5_2_1
+    3300038: Chapel_5_2_2
+    3300040: Chapel_6_1_1
+    3300042: Chapel_6_1_2
+    3300044: Chapel_6_2_1
+    3300046: Chapel_6_2_2
+    3300048: Chapel_7_1_1
+    3300050: Chapel_7_1_2
+    3300052: Chapel_7_2_1
+    3300054: Chapel_7_2_2
+    4300000: Chapel_7_2_2
+    4300002: Chapel_7_2_1
+    4300004: Chapel_7_1_2
+    4300006: Chapel_7_1_1
+    4300008: Chapel_6_2_2
+    4300010: Chapel_6_2_1
+    4300012: Chapel_6_1_2
+    4300014: Chapel_6_1_1
+    4300016: Chapel_5_2_2
+    4300018: Chapel_5_2_1
+    4300020: Chapel_5_1_2
+    4300022: Chapel_5_1_1
+    4300024: Chapel_4_2_2
+    4300026: Chapel_4_2_1
+    4300028: Chapel_4_1_2
+    4300030: Chapel_4_1_1
+    4300032: Chapel_3_2_2
+    4300034: Chapel_3_2_1
+    4300036: Chapel_3_1_2
+    4300038: Chapel_3_1_1
+    4300040: Chapel_2_2_2
+    4300042: Chapel_2_2_1
+    4300044: Chapel_2_1_2
+    4300046: Chapel_2_1_1
+    4300048: Chapel_1_2_2
+    4300050: Chapel_1_2_1
+    4300052: Chapel_1_1_2
+    4300054: Chapel_1_1_1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charred Wood
+    second: {fileID: 2100000, guid: 479f178f13536cb4a8aba5ed3ce0d16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: e977d79d9aa0ac241baccc1fc09a1994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Tile
+    second: {fileID: 2100000, guid: 4bb9c28d53c87ef4bbf50189cbb5166f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stain Glass Brown
+    second: {fileID: 2100000, guid: b7b9631dc0ae8b94d894de4fcacfd66b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stained Glass Blue
+    second: {fileID: 2100000, guid: a6eae2b4b17d8b348af2781a5637de78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stained Glass Green
+    second: {fileID: 2100000, guid: e93b3ee5776ef124eb299e343424ac6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stained Glass Red
+    second: {fileID: 2100000, guid: 19c6dcbc28c3c1a42ab55ae8a70a6480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stained Glass White
+    second: {fileID: 2100000, guid: 5abff0a7b9feed54086723995432a6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: a436d5d00aa42664eb529629f87a9f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Plaster
+    second: {fileID: 2100000, guid: 2d77501132cb3ab488494d005d67f676, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

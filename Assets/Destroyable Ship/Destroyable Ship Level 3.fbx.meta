@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: a05cbea74b75f7d44a7db3de11644428
+timeCreated: 1515285302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ship_10_1_1
+    100004: Ship_10_1_2
+    100006: Ship_10_2_1
+    100008: Ship_10_2_2
+    100010: Ship_11_1_1
+    100012: Ship_11_1_2
+    100014: Ship_11_2_1
+    100016: Ship_11_2_2
+    100018: Ship_1_1_1
+    100020: Ship_1_1_2
+    100022: Ship_1_2_1
+    100024: Ship_1_2_2
+    100026: Ship_2_1_1
+    100028: Ship_2_1_2
+    100030: Ship_2_2_1
+    100032: Ship_2_2_2
+    100034: Ship_3_1_1
+    100036: Ship_3_1_2
+    100038: Ship_3_2_1
+    100040: Ship_3_2_2
+    100042: Ship_4_1_1
+    100044: Ship_4_1_2
+    100046: Ship_4_2_1
+    100048: Ship_4_2_2
+    100050: Ship_5_1_1
+    100052: Ship_5_1_2
+    100054: Ship_5_2_1
+    100056: Ship_5_2_2
+    100058: Ship_6_1_1
+    100060: Ship_6_1_2
+    100062: Ship_6_2_1
+    100064: Ship_6_2_2
+    100066: Ship_7_1_1
+    100068: Ship_7_1_2
+    100070: Ship_7_2_1
+    100072: Ship_7_2_2
+    100074: Ship_8_1_1
+    100076: Ship_8_1_2
+    100078: Ship_8_2_1
+    100080: Ship_8_2_2
+    100082: Ship_9_1_1
+    100084: Ship_9_1_2
+    100086: Ship_9_2_1
+    100088: Ship_9_2_2
+    400000: //RootNode
+    400002: Ship_10_1_1
+    400004: Ship_10_1_2
+    400006: Ship_10_2_1
+    400008: Ship_10_2_2
+    400010: Ship_11_1_1
+    400012: Ship_11_1_2
+    400014: Ship_11_2_1
+    400016: Ship_11_2_2
+    400018: Ship_1_1_1
+    400020: Ship_1_1_2
+    400022: Ship_1_2_1
+    400024: Ship_1_2_2
+    400026: Ship_2_1_1
+    400028: Ship_2_1_2
+    400030: Ship_2_2_1
+    400032: Ship_2_2_2
+    400034: Ship_3_1_1
+    400036: Ship_3_1_2
+    400038: Ship_3_2_1
+    400040: Ship_3_2_2
+    400042: Ship_4_1_1
+    400044: Ship_4_1_2
+    400046: Ship_4_2_1
+    400048: Ship_4_2_2
+    400050: Ship_5_1_1
+    400052: Ship_5_1_2
+    400054: Ship_5_2_1
+    400056: Ship_5_2_2
+    400058: Ship_6_1_1
+    400060: Ship_6_1_2
+    400062: Ship_6_2_1
+    400064: Ship_6_2_2
+    400066: Ship_7_1_1
+    400068: Ship_7_1_2
+    400070: Ship_7_2_1
+    400072: Ship_7_2_2
+    400074: Ship_8_1_1
+    400076: Ship_8_1_2
+    400078: Ship_8_2_1
+    400080: Ship_8_2_2
+    400082: Ship_9_1_1
+    400084: Ship_9_1_2
+    400086: Ship_9_2_1
+    400088: Ship_9_2_2
+    2100000: Ship Hull
+    2100002: Cannon Axel
+    2100004: Ship Deck
+    2100006: Rope
+    2100008: Ship Wheel
+    2100010: Ship Railing
+    2100012: Brass
+    2100014: Ship mast
+    2300000: Ship_10_1_1
+    2300002: Ship_10_1_2
+    2300004: Ship_10_2_1
+    2300006: Ship_10_2_2
+    2300008: Ship_11_1_1
+    2300010: Ship_11_1_2
+    2300012: Ship_11_2_1
+    2300014: Ship_11_2_2
+    2300016: Ship_1_1_1
+    2300018: Ship_1_1_2
+    2300020: Ship_1_2_1
+    2300022: Ship_1_2_2
+    2300024: Ship_2_1_1
+    2300026: Ship_2_1_2
+    2300028: Ship_2_2_1
+    2300030: Ship_2_2_2
+    2300032: Ship_3_1_1
+    2300034: Ship_3_1_2
+    2300036: Ship_3_2_1
+    2300038: Ship_3_2_2
+    2300040: Ship_4_1_1
+    2300042: Ship_4_1_2
+    2300044: Ship_4_2_1
+    2300046: Ship_4_2_2
+    2300048: Ship_5_1_1
+    2300050: Ship_5_1_2
+    2300052: Ship_5_2_1
+    2300054: Ship_5_2_2
+    2300056: Ship_6_1_1
+    2300058: Ship_6_1_2
+    2300060: Ship_6_2_1
+    2300062: Ship_6_2_2
+    2300064: Ship_7_1_1
+    2300066: Ship_7_1_2
+    2300068: Ship_7_2_1
+    2300070: Ship_7_2_2
+    2300072: Ship_8_1_1
+    2300074: Ship_8_1_2
+    2300076: Ship_8_2_1
+    2300078: Ship_8_2_2
+    2300080: Ship_9_1_1
+    2300082: Ship_9_1_2
+    2300084: Ship_9_2_1
+    2300086: Ship_9_2_2
+    3300000: Ship_10_1_1
+    3300002: Ship_10_1_2
+    3300004: Ship_10_2_1
+    3300006: Ship_10_2_2
+    3300008: Ship_11_1_1
+    3300010: Ship_11_1_2
+    3300012: Ship_11_2_1
+    3300014: Ship_11_2_2
+    3300016: Ship_1_1_1
+    3300018: Ship_1_1_2
+    3300020: Ship_1_2_1
+    3300022: Ship_1_2_2
+    3300024: Ship_2_1_1
+    3300026: Ship_2_1_2
+    3300028: Ship_2_2_1
+    3300030: Ship_2_2_2
+    3300032: Ship_3_1_1
+    3300034: Ship_3_1_2
+    3300036: Ship_3_2_1
+    3300038: Ship_3_2_2
+    3300040: Ship_4_1_1
+    3300042: Ship_4_1_2
+    3300044: Ship_4_2_1
+    3300046: Ship_4_2_2
+    3300048: Ship_5_1_1
+    3300050: Ship_5_1_2
+    3300052: Ship_5_2_1
+    3300054: Ship_5_2_2
+    3300056: Ship_6_1_1
+    3300058: Ship_6_1_2
+    3300060: Ship_6_2_1
+    3300062: Ship_6_2_2
+    3300064: Ship_7_1_1
+    3300066: Ship_7_1_2
+    3300068: Ship_7_2_1
+    3300070: Ship_7_2_2
+    3300072: Ship_8_1_1
+    3300074: Ship_8_1_2
+    3300076: Ship_8_2_1
+    3300078: Ship_8_2_2
+    3300080: Ship_9_1_1
+    3300082: Ship_9_1_2
+    3300084: Ship_9_2_1
+    3300086: Ship_9_2_2
+    4300000: Ship_11_2_2
+    4300002: Ship_11_2_1
+    4300004: Ship_11_1_2
+    4300006: Ship_11_1_1
+    4300008: Ship_10_2_2
+    4300010: Ship_10_2_1
+    4300012: Ship_10_1_2
+    4300014: Ship_10_1_1
+    4300016: Ship_9_2_1
+    4300018: Ship_9_2_2
+    4300020: Ship_9_1_2
+    4300022: Ship_9_1_1
+    4300024: Ship_8_2_2
+    4300026: Ship_8_2_1
+    4300028: Ship_8_1_2
+    4300030: Ship_8_1_1
+    4300032: Ship_7_2_2
+    4300034: Ship_7_2_1
+    4300036: Ship_7_1_2
+    4300038: Ship_7_1_1
+    4300040: Ship_6_2_2
+    4300042: Ship_6_1_2
+    4300044: Ship_6_1_1
+    4300046: Ship_6_2_1
+    4300048: Ship_5_2_2
+    4300050: Ship_5_2_1
+    4300052: Ship_5_1_2
+    4300054: Ship_5_1_1
+    4300056: Ship_4_2_2
+    4300058: Ship_4_2_1
+    4300060: Ship_4_1_2
+    4300062: Ship_4_1_1
+    4300064: Ship_3_2_2
+    4300066: Ship_3_2_1
+    4300068: Ship_3_1_2
+    4300070: Ship_3_1_1
+    4300072: Ship_2_2_1
+    4300074: Ship_2_1_2
+    4300076: Ship_2_2_2
+    4300078: Ship_2_1_1
+    4300080: Ship_1_1_2
+    4300082: Ship_1_1_1
+    4300084: Ship_1_2_1
+    4300086: Ship_1_2_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass
+    second: {fileID: 2100000, guid: dba659cc29f8ce24c89d25844645f6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannon Axel
+    second: {fileID: 2100000, guid: a92a529ef717b84448f576cc46417316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope
+    second: {fileID: 2100000, guid: 549bef45ee9edd847a98940b91971ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Deck
+    second: {fileID: 2100000, guid: 6555d0277df1f1e47aed8aadd4030378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Railing
+    second: {fileID: 2100000, guid: cd074c3378820284eb5e56d9d35df61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Wheel
+    second: {fileID: 2100000, guid: b9e062c86f8a89a4b8c0b85e37b54ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship mast
+    second: {fileID: 2100000, guid: 7ac17f2342eb4264dba733437381fab8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

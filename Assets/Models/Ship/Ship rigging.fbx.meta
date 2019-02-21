@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 35ce3758a4725f542a35ea51ae2ac1ef
+timeCreated: 1523070280
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AFTTOPROPE
+    100002: Back left bottom rigging
+    100004: Back left bottom rigging 2
+    100006: Back Left Side Rigging
+    100008: Back Left Top Rigging
+    100010: Back Left Top rigging 2
+    100012: Back right bottom rigging
+    100014: Back right bottom rigging 2
+    100016: Back Right side rigging
+    100018: Back Right Top rigging
+    100020: Back Right Top rigging 2
+    100022: FORETOPROPE
+    100024: Front Left Bottom Rigging
+    100026: Front Left Bottom Rigging 2
+    100028: Front LeftSide rigging
+    100030: Front Right Bottom Rigging
+    100032: Front Right bottom rigging 2
+    100034: Front Right Side Rigging
+    100036: Front Top Left Rigging
+    100038: Front Top Left Rigging 2
+    100040: Front Top Right Rigging
+    100042: Front Top Right Rigging 2
+    100044: MIDTOPROPE
+    100046: PORTAFTBSRIGGING
+    100048: PORTAFTMASTRIGGING
+    100050: PORTAFTSPARRIGGING
+    100052: PORTFOREBSRIGGING
+    100054: PORTFOREMASTRIGGING
+    100056: //RootNode
+    100058: STARAFTBSRIGGING
+    100060: STARAFTMASTRIGGING
+    100062: STARAFTSPARRIGGING
+    100064: STARFOREBSRIGGING
+    100066: STARFOREMASTRIGGING
+    400000: AFTTOPROPE
+    400002: Back left bottom rigging
+    400004: Back left bottom rigging 2
+    400006: Back Left Side Rigging
+    400008: Back Left Top Rigging
+    400010: Back Left Top rigging 2
+    400012: Back right bottom rigging
+    400014: Back right bottom rigging 2
+    400016: Back Right side rigging
+    400018: Back Right Top rigging
+    400020: Back Right Top rigging 2
+    400022: FORETOPROPE
+    400024: Front Left Bottom Rigging
+    400026: Front Left Bottom Rigging 2
+    400028: Front LeftSide rigging
+    400030: Front Right Bottom Rigging
+    400032: Front Right bottom rigging 2
+    400034: Front Right Side Rigging
+    400036: Front Top Left Rigging
+    400038: Front Top Left Rigging 2
+    400040: Front Top Right Rigging
+    400042: Front Top Right Rigging 2
+    400044: MIDTOPROPE
+    400046: PORTAFTBSRIGGING
+    400048: PORTAFTMASTRIGGING
+    400050: PORTAFTSPARRIGGING
+    400052: PORTFOREBSRIGGING
+    400054: PORTFOREMASTRIGGING
+    400056: //RootNode
+    400058: STARAFTBSRIGGING
+    400060: STARAFTMASTRIGGING
+    400062: STARAFTSPARRIGGING
+    400064: STARFOREBSRIGGING
+    400066: STARFOREMASTRIGGING
+    2100000: Light Wood
+    2300000: AFTTOPROPE
+    2300002: Back left bottom rigging
+    2300004: Back left bottom rigging 2
+    2300006: Back Left Side Rigging
+    2300008: Back Left Top Rigging
+    2300010: Back Left Top rigging 2
+    2300012: Back right bottom rigging
+    2300014: Back right bottom rigging 2
+    2300016: Back Right side rigging
+    2300018: Back Right Top rigging
+    2300020: Back Right Top rigging 2
+    2300022: FORETOPROPE
+    2300024: Front Left Bottom Rigging
+    2300026: Front Left Bottom Rigging 2
+    2300028: Front LeftSide rigging
+    2300030: Front Right Bottom Rigging
+    2300032: Front Right bottom rigging 2
+    2300034: Front Right Side Rigging
+    2300036: Front Top Left Rigging
+    2300038: Front Top Left Rigging 2
+    2300040: Front Top Right Rigging
+    2300042: Front Top Right Rigging 2
+    2300044: MIDTOPROPE
+    2300046: PORTAFTBSRIGGING
+    2300048: PORTAFTMASTRIGGING
+    2300050: PORTAFTSPARRIGGING
+    2300052: PORTFOREBSRIGGING
+    2300054: PORTFOREMASTRIGGING
+    2300056: STARAFTBSRIGGING
+    2300058: STARAFTMASTRIGGING
+    2300060: STARAFTSPARRIGGING
+    2300062: STARFOREBSRIGGING
+    2300064: STARFOREMASTRIGGING
+    3300000: AFTTOPROPE
+    3300002: Back left bottom rigging
+    3300004: Back left bottom rigging 2
+    3300006: Back Left Side Rigging
+    3300008: Back Left Top Rigging
+    3300010: Back Left Top rigging 2
+    3300012: Back right bottom rigging
+    3300014: Back right bottom rigging 2
+    3300016: Back Right side rigging
+    3300018: Back Right Top rigging
+    3300020: Back Right Top rigging 2
+    3300022: FORETOPROPE
+    3300024: Front Left Bottom Rigging
+    3300026: Front Left Bottom Rigging 2
+    3300028: Front LeftSide rigging
+    3300030: Front Right Bottom Rigging
+    3300032: Front Right bottom rigging 2
+    3300034: Front Right Side Rigging
+    3300036: Front Top Left Rigging
+    3300038: Front Top Left Rigging 2
+    3300040: Front Top Right Rigging
+    3300042: Front Top Right Rigging 2
+    3300044: MIDTOPROPE
+    3300046: PORTAFTBSRIGGING
+    3300048: PORTAFTMASTRIGGING
+    3300050: PORTAFTSPARRIGGING
+    3300052: PORTFOREBSRIGGING
+    3300054: PORTFOREMASTRIGGING
+    3300056: STARAFTBSRIGGING
+    3300058: STARAFTMASTRIGGING
+    3300060: STARAFTSPARRIGGING
+    3300062: STARFOREBSRIGGING
+    3300064: STARFOREMASTRIGGING
+    4300000: Front Top Left Rigging
+    4300002: Front Top Left Rigging 2
+    4300004: Front LeftSide rigging
+    4300006: Front Left Bottom Rigging
+    4300008: Front Left Bottom Rigging 2
+    4300010: Back Left Top Rigging
+    4300012: Back Left Top rigging 2
+    4300014: Back Left Side Rigging
+    4300016: Back left bottom rigging
+    4300018: Back left bottom rigging 2
+    4300020: Back Right Top rigging 2
+    4300022: Back Right side rigging
+    4300024: Back right bottom rigging
+    4300026: Back right bottom rigging 2
+    4300028: Back Right Top rigging
+    4300030: Front Top Right Rigging
+    4300032: Front Top Right Rigging 2
+    4300034: Front Right Side Rigging
+    4300036: Front Right bottom rigging 2
+    4300038: Front Right Bottom Rigging
+    4300040: STARAFTSPARRIGGING
+    4300042: STARAFTMASTRIGGING
+    4300044: PORTFOREMASTRIGGING
+    4300046: STARAFTBSRIGGING
+    4300048: STARFOREBSRIGGING
+    4300050: STARFOREMASTRIGGING
+    4300052: PORTAFTMASTRIGGING
+    4300054: PORTAFTSPARRIGGING
+    4300056: PORTAFTBSRIGGING
+    4300058: PORTFOREBSRIGGING
+    4300060: AFTTOPROPE
+    4300062: FORETOPROPE
+    4300064: MIDTOPROPE
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Wood
+    second: {fileID: 2100000, guid: 6555d0277df1f1e47aed8aadd4030378, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

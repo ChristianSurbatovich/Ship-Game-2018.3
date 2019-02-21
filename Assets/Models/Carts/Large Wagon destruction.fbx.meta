@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: a5c70bedc61639b4faa35fcd10a5abeb
+timeCreated: 1521497391
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.214
+    100002: Cube.215
+    100004: Cube.216
+    100006: Cube.217
+    100008: Cube.220
+    100010: Cube.221
+    100012: Cube.222
+    100014: Cube.223
+    100016: Cube.224
+    100018: Cube.225
+    100020: Cube.226
+    100022: Cube.227
+    100024: Cube.228
+    100026: Cube.229
+    100028: Cube.230
+    100030: Cube.231
+    100032: Cube.232
+    100034: Cube.233
+    100036: Cube.234
+    100038: Cube.235
+    100040: Cube.236
+    100042: Cube.237
+    100044: Cube.238
+    100046: Cylinder.039
+    100048: Cylinder.059
+    100050: Cylinder.060
+    100052: Cylinder.061
+    100054: Cylinder.062
+    100056: Cylinder.063
+    100058: //RootNode
+    400000: Cube.214
+    400002: Cube.215
+    400004: Cube.216
+    400006: Cube.217
+    400008: Cube.220
+    400010: Cube.221
+    400012: Cube.222
+    400014: Cube.223
+    400016: Cube.224
+    400018: Cube.225
+    400020: Cube.226
+    400022: Cube.227
+    400024: Cube.228
+    400026: Cube.229
+    400028: Cube.230
+    400030: Cube.231
+    400032: Cube.232
+    400034: Cube.233
+    400036: Cube.234
+    400038: Cube.235
+    400040: Cube.236
+    400042: Cube.237
+    400044: Cube.238
+    400046: Cylinder.039
+    400048: Cylinder.059
+    400050: Cylinder.060
+    400052: Cylinder.061
+    400054: Cylinder.062
+    400056: Cylinder.063
+    400058: //RootNode
+    2100000: Ship Hull
+    2100002: Iron
+    2300000: Cube.214
+    2300002: Cube.215
+    2300004: Cube.216
+    2300006: Cube.217
+    2300008: Cube.220
+    2300010: Cube.221
+    2300012: Cube.222
+    2300014: Cube.223
+    2300016: Cube.224
+    2300018: Cube.225
+    2300020: Cube.226
+    2300022: Cube.227
+    2300024: Cube.228
+    2300026: Cube.229
+    2300028: Cube.230
+    2300030: Cube.231
+    2300032: Cube.232
+    2300034: Cube.233
+    2300036: Cube.234
+    2300038: Cube.235
+    2300040: Cube.236
+    2300042: Cube.237
+    2300044: Cube.238
+    2300046: Cylinder.039
+    2300048: Cylinder.059
+    2300050: Cylinder.060
+    2300052: Cylinder.061
+    2300054: Cylinder.062
+    2300056: Cylinder.063
+    3300000: Cube.214
+    3300002: Cube.215
+    3300004: Cube.216
+    3300006: Cube.217
+    3300008: Cube.220
+    3300010: Cube.221
+    3300012: Cube.222
+    3300014: Cube.223
+    3300016: Cube.224
+    3300018: Cube.225
+    3300020: Cube.226
+    3300022: Cube.227
+    3300024: Cube.228
+    3300026: Cube.229
+    3300028: Cube.230
+    3300030: Cube.231
+    3300032: Cube.232
+    3300034: Cube.233
+    3300036: Cube.234
+    3300038: Cube.235
+    3300040: Cube.236
+    3300042: Cube.237
+    3300044: Cube.238
+    3300046: Cylinder.039
+    3300048: Cylinder.059
+    3300050: Cylinder.060
+    3300052: Cylinder.061
+    3300054: Cylinder.062
+    3300056: Cylinder.063
+    4300000: Cube.238
+    4300002: Cylinder.063
+    4300004: Cylinder.062
+    4300006: Cylinder.061
+    4300008: Cylinder.060
+    4300010: Cube.237
+    4300012: Cube.236
+    4300014: Cube.235
+    4300016: Cube.234
+    4300018: Cube.233
+    4300020: Cube.232
+    4300022: Cube.231
+    4300024: Cube.230
+    4300026: Cube.229
+    4300028: Cube.228
+    4300030: Cube.227
+    4300032: Cube.226
+    4300034: Cube.225
+    4300036: Cube.224
+    4300038: Cube.223
+    4300040: Cube.222
+    4300042: Cube.221
+    4300044: Cube.220
+    4300046: Cube.217
+    4300048: Cube.216
+    4300050: Cylinder.059
+    4300052: Cylinder.039
+    4300054: Cube.215
+    4300056: Cube.214
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron
+    second: {fileID: 2100000, guid: e87e287c0de2f294db957c4e1ddc011d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship Hull
+    second: {fileID: 2100000, guid: 9f2e90fcd4013804e96c9b06645aebed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

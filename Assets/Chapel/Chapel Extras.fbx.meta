@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 1d2eb280311dbb24bae3a57be22491c3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bell_1
+    100002: Bell_1_Attachment
+    100004: Bell_1_Bar
+    100006: Bell_2
+    100008: Bell_2_Attachment
+    100010: Bell_2_Bar
+    100012: Bell_3
+    100014: Bell_3_Attachment
+    100016: Bell_3_Bar
+    100018: //RootNode
+    400000: Bell_1
+    400002: Bell_1_Attachment
+    400004: Bell_1_Bar
+    400006: Bell_2
+    400008: Bell_2_Attachment
+    400010: Bell_2_Bar
+    400012: Bell_3
+    400014: Bell_3_Attachment
+    400016: Bell_3_Bar
+    400018: //RootNode
+    2100000: Iron
+    2100002: WoodBeam
+    2100004: Bell
+    2300000: Bell_1
+    2300002: Bell_1_Attachment
+    2300004: Bell_1_Bar
+    2300006: Bell_2
+    2300008: Bell_2_Attachment
+    2300010: Bell_2_Bar
+    2300012: Bell_3
+    2300014: Bell_3_Attachment
+    2300016: Bell_3_Bar
+    3300000: Bell_1
+    3300002: Bell_1_Attachment
+    3300004: Bell_1_Bar
+    3300006: Bell_2
+    3300008: Bell_2_Attachment
+    3300010: Bell_2_Bar
+    3300012: Bell_3
+    3300014: Bell_3_Attachment
+    3300016: Bell_3_Bar
+    4300000: Bell_2_Attachment
+    4300002: Bell_1_Attachment
+    4300004: Bell_1_Bar
+    4300006: Bell_3_Attachment
+    4300008: Bell_3_Bar
+    4300010: Bell_2_Bar
+    4300012: Bell_1
+    4300014: Bell_3
+    4300016: Bell_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bell
+    second: {fileID: 2100000, guid: 356c7f32414755c4d9d732005cb7477b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron
+    second: {fileID: 2100000, guid: e87e287c0de2f294db957c4e1ddc011d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodBeam
+    second: {fileID: 2100000, guid: f907125895319984ab583692e084ae5c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

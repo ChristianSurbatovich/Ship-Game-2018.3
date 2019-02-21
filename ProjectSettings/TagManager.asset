@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MouseControl
+  - Projectile
+  - Deactivate on Death
+  - Water
+  - Object Collider
+  - Debris
+  - Terrain
+  - NetworkManager
+  - UI
+  - Input
+  - NetworkPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Object Colliders
+  - Debris
+  - Projectiles
+  - Terrain
+  - UIBack
+  - UIMiddle
+  - UIFront
+  - Water Geometry
+  - SeaHeight
+  - WakesAndSplashes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 804987931
+    locked: 0
+  - name: Middle
+    uniqueID: 234693301
+    locked: 0
+  - name: Front
+    uniqueID: 3220877683
+    locked: 0
